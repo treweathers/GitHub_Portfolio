@@ -12,7 +12,7 @@ export default function Aboutme() {
         
         <h3 className="black"> Welcome, Earthling! My name is Tre and I am an Educator, Lifelong Learner, and Interdisciplinary Researcher with a goal of learning each valuable skill necessary to pioneer the change that I wish to see in the world! </h3>
         <p> I hope to continually gain experience to grow myself professionally and offer the same to the schools and organizations that I work with as I work towards a greater goal of personal development and global change. </p>
-    
+        </p>
       </div>
     )
   }
