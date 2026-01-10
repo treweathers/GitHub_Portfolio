@@ -3,7 +3,7 @@
 <h1 align="center"> Tre Weathers </h1>
 <h5 align='center'>aka TJ</h5>
 
-###### Welcome, Earthling! My name is Tre and I am an Educator, Lifelong Learner, and Interdisciplinery Researcher with a goal of learning each valuable skill necessary to pioneer the change that I wish to see in the world. I hope to continually gain experience to grow myself professionally and offer the same to everyone that I work with as I work towards a greater goal of personal development and global change.
+###### Welcome, Earthling! My name is Tre and I am a Lifelong Learner and Interdisciplinery Researcher with a goal of learning each valuable skill necessary to pioneer the change that I wish to see in the world. I hope to continually gain experience to grow myself professionally and offer the same to everyone that I work with as I work towards a greater goal of personal development and global change.
 
 <hr> </hr>
 
