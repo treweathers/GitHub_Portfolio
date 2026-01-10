@@ -8,29 +8,11 @@
 <hr> </hr>
 
 <h3 align="center">
-Research Scientist, Computer Scientist, and Engineer README.md Portfolio
+README.md Portfolio
 </h3>
-
-<h4 align='center'>
-Professional Student and future CEO
-</h4>
-
-<h6 align='center'>current duties: STEM Tutor (during  day☀️), Law Student (at night🌙), and entrepreneur (rest of the time⌛️) </h6>
-
 
 <img src="https://i.postimg.cc/FRWr6HHD/funny-urkey.webp" align="center"> 
 </img>
-
-<h2 align="center">
-About Me
-</h2>
-
-<h4 align="center">
-Preparing for Fall 2026 MS Computer Science (AI), and PhD in Biomedical Engineering with MS Physics following completion
-</h4>
-
-###### but that's just the beginning🤫
-
 
 <h3 align="center">
 1. TOOLS & TECHNOLOGIES | Tech Stack
