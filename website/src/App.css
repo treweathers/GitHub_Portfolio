@@ -125,21 +125,10 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 .link {
-  margin: 15px;
-  margin-bottom: 15px;
-  margin-top: 15px;
-  margin-left: 10px;
-  margin-right: 10px;
-  padding: 5px;
+
   list-style-type: none;
 }
 .link2 {
-  margin: 15px;
-  margin-bottom: 15px;
-  margin-top: 15px;
-  margin-left: 10px;
-  margin-right: 10px;
-  padding: 5px;
   color: rgb(248, 221, 15);
   font-size: 18px;
 }
