@@ -22,7 +22,7 @@ export default function Services() {
           <p> Research: experience navigating various types of databases </p>
           </div>
     
-          <p> <a className="github" href="https://github.com/TREYCSE/GitHub_Portfolio">GitHub PortFolio README.md for Engineers: Click here for code samples, etc.</a> </p>
+          <a className="github" href="https://github.com/TREYCSE/GitHub_Portfolio">GitHub PortFolio README.md for Engineers</a>
     
       </div>
     )
