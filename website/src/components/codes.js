@@ -9,7 +9,7 @@ export default function Codes() {
         <h2 className=""> Example 2: The Virtual Classroom </h2>
         <p className="black"> This was my capstone for the software engineering bootcamp where I began my studies.
     While AI was not a part of the program, by the end I was heavily interested.
-    To incorporate this, I integrated the BERT QnA model into my website using TensorFlow backend, allowing users to extract details from the content of a given passage through q&a. 
+    To incorporate this, I integrated the BERT Q&A model into my website using TensorFlow backend, allowing users to extract details from the content of a given passage through q&a. 
          </p>
 
         <h3>ToolKit</h3>
