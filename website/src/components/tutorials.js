@@ -3,9 +3,8 @@ import  Nave  from "./nav_4.js";
 export default function Tutorials() {
   return (
       <div>
-        <Nave YoutubeEmbed="/hardware"  YoutubeEmbed3="/production" YoutubeEmbed2="/neural_networks"/>
-
         <h3> ⭐️ Helpful Videos for Beginners ⭐️ </h3>
+        <Nave YoutubeEmbed="/hardware"  YoutubeEmbed3="/production" YoutubeEmbed2="/neural_networks"/>
 
       </div>
     )
