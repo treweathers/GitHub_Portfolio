@@ -5,9 +5,8 @@ export default function Education() {
           <h3 className="blue"> Degree Programs </h3>
           <h4> ✡ St. Francis College: B.S. in Healthcare Management</h4>
           <h4> ✡ Fordham School of Law: JD (Intellctual Property, Informacy Privacy, Medical Malpractice, and Pharmeceutical Litigation) 2021-2026 </h4>
-          <p> ✡ MS Computer Science (AI), PhD Biomedical Engineering (Devices), and more commencing after JD completion and startup launch </p>
         
-         <h3 className="blue"> Complted Online Certificates </h3>
+         <h3 className="blue"> Online Certificates </h3>
           <h4> ✡ General Assembly: Full Stack Software Engineering Certificate </h4>
           <h4> ✡ Stanford Online & DeepLearning.AI: Machine Learning Specialization Certificate </h4>
           <h4> ✡ DeepLearning.AI: Mathematics for Machine Learning and Data Science Specialization Certificate</h4>
@@ -15,18 +14,10 @@ export default function Education() {
           <h4> ✡ Duke University: Python, Bash and SQL Essentials for Data Engineering Specialization Certificate </h4>
           <h4> ✡ DeepLearning.AI: TensorFlow Data and Deployment Specialization Certificate </h4>
         
-          <h3 className="blue"> Certificates In Progress | Up Next </h3>
-          <h4> ✡ Meta: Meta Back-End Developer Professional Certificate - in progress </h4>
-          <h4> ✡ DeepLearning.AI: AI for Medicine Specialization Certificate - in progress </h4>
-          <h4> ✡ Stanford: AI in Healthcare Specialization Certificate - on hold/up next </h4>
 
           <hr></hr>
         
-          <h3 className="blue">Positions open to</h3>
-            <h5>✰ Fields of Interest and Experience: Artificial Intelligence, Medicine/Healthcare, Finance, Business & Media, Robotics, Web Development, Law/Policy, Education, Data Science, and more! </h5>
-            <h5>✰ Roles: Data Engineer/Analyst/Scientist, AI engineer, Machine Learning Engineer,  Prompt Engineer, Researcher, Teacher, Professor, and more.</h5>
-            <h5>✰ Responsibilities: Problem Solving, System design/architecture/engineering, Data analysis, Research, Software engineering, troubleshooting/debugging/error tracking, teamwork, management, consulting, and more.</h5>
-        
+          
           <hr className="hrh"></hr>
           
           <img className="example" src="https://i.postimg.cc/T2bfDJy4/IMG-4607.jpg" align="center" alt="degree"></img>
@@ -52,3 +43,18 @@ export default function Education() {
         </div>
       )
     }
+
+/*
+          <p> ✡ MS Computer Science (AI), PhD Biomedical Engineering (Devices), and more commencing after JD completion and startup launch </p>
+
+          <h3 className="blue"> Certificates In Progress | Up Next </h3>
+          <h4> ✡ Meta: Meta Back-End Developer Professional Certificate - in progress </h4>
+          <h4> ✡ DeepLearning.AI: AI for Medicine Specialization Certificate - in progress </h4>
+          <h4> ✡ Stanford: AI in Healthcare Specialization Certificate - on hold/up next </h4>
+          
+          <h3 className="blue">Positions open to</h3>
+              <h5>✰ Fields of Interest and Experience: Artificial Intelligence, Medicine/Healthcare, Finance, Business & Media, Robotics, Web Development, Law/Policy, Education, Data Science, and more! </h5>
+              <h5>✰ Roles: Data Engineer/Analyst/Scientist, AI engineer, Machine Learning Engineer,  Prompt Engineer, Researcher, Teacher, Professor, and more.</h5>
+              <h5>✰ Responsibilities: Problem Solving, System design/architecture/engineering, Data analysis, Research, Software engineering, troubleshooting/debugging/error tracking, teamwork, management, consulting, and more.</h5>
+        
+*/
