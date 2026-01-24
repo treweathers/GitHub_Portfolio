@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 
 const YoutubeEmbed = ({embedId}) => (
   <div>
-  <iframe>
+  <iframe
     className="video-big"
     width="774"
     height="435"
@@ -13,9 +13,8 @@ const YoutubeEmbed = ({embedId}) => (
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     referrerpolicy="strict-origin-when-cross-origin"
     allowfullscreen
-    title="Embedded youtube"
+    title="Embedded youtube">
   </iframe>
-  
   </div>
 );
 
