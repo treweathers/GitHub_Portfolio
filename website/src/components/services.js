@@ -3,15 +3,16 @@ import  Navd  from "./nav_3.js";
 export default function Services() {
   return (
       <div>
-        <p> </p>
-    
-        <a className="github" href="https://github.com/TREYCSE/GitHub_Portfolio"> GitHub - Click here for the accompanying README.md for code snippets and more </a>
 
        <p> </p>
     
         <Navd Data="/data" Algorithms="/algorithms"  Codes="/codes" Consulting="/consulting" />
+
+     <p> </p>
     
-          <h3 className="blue"> Tech Stack </h3>
+        <a className="github" href="https://github.com/TREYCSE/GitHub_Portfolio"> GitHub - Click here for the accompanying README.md for code snippets and more </a>
+          
+    <h3 className="blue"> Tech Stack </h3>
           
           <div className="black">
           <h4> "Go-to" Full-Stack: React, Python, Java, SQL </h4>
