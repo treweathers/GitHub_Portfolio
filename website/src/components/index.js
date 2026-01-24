@@ -6,7 +6,7 @@ import Home from "./home.js";
 import Aboutme from "./about_me.js";
 import Algorithms from "./algorithms.js";
 import Codes from "./codes.js";
-import Consulting from "./consulting.js"
+//import Consulting from "./consulting.js"
 import Contact from "./contact.js"
 import Data from "./data.js";
 import Education from "./education.js"
@@ -23,7 +23,7 @@ export {
   Aboutme,
   Algorithms,
   Codes,
-  Consulting,
+  //Consulting,
   Contact,
   Data,
   Education,
