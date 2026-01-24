@@ -5,7 +5,7 @@ export default function Services() {
       <div className="">
         <Navd Data="/data" Algorithms="/algorithms"  Codes="/codes" Consulting="/consulting" />
     
-          <h3 className="white"> Tools | Technologies </h3>
+          <h3 className="blue"> Tools | Technologies </h3>
           
           <div className="black">
           <h4> My Go-to Tech Stack: TensorFlow, Python, SQL, Node.js, React.js </h4>
@@ -14,7 +14,7 @@ export default function Services() {
           <p> Big Data tools: Google Cloud, AWS, Azure, Spark </p>
           </div>
     
-          <h3 className="white"> Administrative | Consulting | Management</h3>
+          <h3 className="blue"> Administrative | Consulting | Management</h3>
          
           <div className="black">
           <p> Project planning and scope management: Microsoft Suite & Google Suite </p>
