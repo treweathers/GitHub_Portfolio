@@ -11,7 +11,6 @@ export default function Education() {
 
          <div className="black">
           <img className="example" src="https://i.postimg.cc/T2bfDJy4/IMG-4607.jpg" align="center" alt="degree"></img>
-          <hr></hr>
         </div>
 
           <h2 className="blue"> Certificates </h2>
