@@ -8,9 +8,9 @@ export default function Data() {
                 In addition, I will pivit to looking for websites to scrape that are better formatted and therefore better to parse through.
           </h4>
           <img className="example" src="https://i.postimg.cc/9Qb6SHSp/Screenshot-2026-01-24-at-5-31-02-PM.png" align="center" alt="constitution"></img>
-
+<p>
           <a href = "https://github.com/TREYCSE/Web_Scraper_csv" className="github">  Click here for repo </a>
-
+    </p>
       </div>
     )
   }
