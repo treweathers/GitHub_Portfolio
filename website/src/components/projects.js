@@ -1,3 +1,4 @@
+/*
 export default function Projects() {
     return (
       <div>
@@ -25,3 +26,4 @@ export default function Projects() {
     }
 
     //      <h4>3. Data Science/Engineering | Artificial Intelligence</h4>
+*/
