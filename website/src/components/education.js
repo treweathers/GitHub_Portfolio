@@ -1,6 +1,6 @@
 export default function Education() {
     return (
-        <div className="black">
+        <div>
         
           <h2 className="blue"> Degree Programs </h2>
         
@@ -22,7 +22,7 @@ export default function Education() {
         
           <hr></hr>
  
-          
+          <div className="black">
           <img className="example" src="https://i.postimg.cc/T2bfDJy4/IMG-4607.jpg" align="center" alt="degree"></img>
           <hr></hr>
         
@@ -42,7 +42,8 @@ export default function Education() {
           <hr></hr>
 
           <img className="example" src="https://i.postimg.cc/Kjmk0wFk/Tensor-Flow-Specialization.png" align="center" alt="vector"></img>
-
+          </div>
+        
         </div>
       )
     }
