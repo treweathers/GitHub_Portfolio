@@ -4,7 +4,7 @@ export default function Education() {
         
           <h3 className="blue"> Degree Programs </h3>
           <h4> ✡ St. Francis College: B.S. in Healthcare Management</h4>
-          <h4> ✡ Fordham School of Law: JD (Intellctual Property, Informacy Privacy, Medical Malpractice, and Pharmeceutical Litigation) 2021-2026 </h4>
+          <h4> ✡ Fordham School of Law: JD (Business Law, Human Rights Law) 2021-2026 </h4>
         
          <h3 className="blue"> Online Certificates </h3>
           <h4> ✡ General Assembly: Full Stack Software Engineering Certificate </h4>
@@ -14,9 +14,7 @@ export default function Education() {
           <h4> ✡ Duke University: Python, Bash and SQL Essentials for Data Engineering Specialization Certificate </h4>
           <h4> ✡ DeepLearning.AI: TensorFlow Data and Deployment Specialization Certificate </h4>
         
-
           <hr></hr>
-        
           
           <hr className="hrh"></hr>
           
@@ -45,6 +43,8 @@ export default function Education() {
     }
 
 /*
+
+//Intellctual Property, Informacy Privacy, Medical Malpractice, and Pharmeceutical Litigation
           <p> ✡ MS Computer Science (AI), PhD Biomedical Engineering (Devices), and more commencing after JD completion and startup launch </p>
 
           <h3 className="blue"> Certificates In Progress | Up Next </h3>
