@@ -3,8 +3,7 @@
 export default function Aboutme() {
   return (
       <div className="aboutme">
-        <hr></hr>
-        
+    
         <p className="aboutrow">
         <h2> Lifelong Learner📚, Advocate🧑‍⚖️, Biohacker🧬, Researcher🥼, Artist🎭, and Technologist🧑‍💻 (LAB RAT) </h2>
         <img className="meimg" src="https://i.postimg.cc/9QnRRJJ3/IMG-6355.jpg" alt="that's me right there!"></img>
