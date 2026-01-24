@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom";
+/* import { Link } from "react-router-dom";
 //Skills, Projects
 //<Link className="link black" to={Skills}> Skills </Link>
 export default function Navs({Education}) {
@@ -10,3 +10,4 @@ export default function Navs({Education}) {
     </div>
   );
 }
+*/
