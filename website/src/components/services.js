@@ -5,7 +5,7 @@ export default function Services() {
       <div className="">
         <Navd Data="/data" Algorithms="/algorithms"  Codes="/codes" Consulting="/consulting" />
     
-          <h2 className="blue"> Tech Stack </h2>
+          <h3 className="blue"> Tech Stack </h3>
           
           <div className="black">
           <h4> "Go-to" Full-Stack: React, Python, Java, SQL </h4>
