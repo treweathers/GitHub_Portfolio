@@ -1,15 +1,18 @@
 import React from "react";  //useState, useEffect } 
 import { Routes, Route } from 'react-router-dom';
-import { Nav, Home, Aboutme, Algorithms, Codes, Consulting, Contact, Data, Education, Projects, Skills, Services, Tutorials, YoutubeEmbed, YoutubeEmbed2, YoutubeEmbed3} from './components/index.js'
+import { Nav, Home, Aboutme, Algorithms, Codes, Contact, Data, Education, Projects, Skills, Services, Tutorials, YoutubeEmbed, YoutubeEmbed2, YoutubeEmbed3} from './components/index.js'
 import './App.css';
 
 //use HashRouter to fix manual reloading? - make sure to import up top, change keywords below, and change from BrowserRouter in index.js
 //hasrouter not recommended
+//Consulting
+//<Route path="/consulting" element={<Consulting />}/> 
+//Consulting="/consulting"
 
 function App() {
   return (
     <div className="App">
-      <Nav Home="/" Aboutme="/aboutme" Algorithms="/algorithms" Codes="/codes" Consulting="/consulting" Contact="/contact" Data="/data" Education="/education" Projects="/projects" Skills="/skills" Services="/services"
+      <Nav Home="/" Aboutme="/aboutme" Algorithms="/algorithms" Codes="/codes" Contact="/contact" Data="/data" Education="/education" Projects="/projects" Skills="/skills" Services="/services"
       Tutorials="/tutorials" YoutubeEmbed="/hardware" YoutubeEmbed2="neural_networks" YoutubeEmbed3="/production"/>
 
         <Routes>
@@ -18,7 +21,6 @@ function App() {
         <Route path="/algorithms" element={<Algorithms />}/> 
         <Route path="/data" element={<Data />}/> 
         <Route path="/codes" element={<Codes />}/>
-        <Route path="/consulting" element={<Consulting />}/> 
         <Route path="/contact" element={<Contact />}/> 
         <Route path="/education" element={<Education />}/>
         <Route path="/projects" element={<Projects />}/>
