@@ -5,7 +5,7 @@ export default function Navs({Education}) {
   return (
     <div>
       <nav className="aboutmenav">
-          <Link className="link black" to={Education}> Education and Work History </Link>
+          <Link className="link black" to={Education}> Education </Link>
       </nav>
     </div>
   );
