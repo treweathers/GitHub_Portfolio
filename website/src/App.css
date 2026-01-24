@@ -109,9 +109,6 @@ h1, h2, h3, h4, h5, h6, p {
 .tutorialsnav {
   display: flex;
   flex-direction: column;
-  border-style: solid;
-  border-width: thick;
-  border-color: white;
 }
 
 .homenav {
