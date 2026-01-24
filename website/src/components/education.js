@@ -3,20 +3,25 @@ export default function Education() {
         <div className="black">
         
           <h2 className="blue"> Degree Programs </h2>
+        
+        <div className="black">
           <h4> ✡ St. Francis College: B.S. in Healthcare Management</h4>
           <h4> ✡ Fordham School of Law: JD (Business Law, Human Rights Law) 2021-2026 </h4>
+        </div>
         
           <h2 className="blue"> Online Certificates </h2>
+
+        <div className="black">
           <h4> ✡ General Assembly: Full Stack Software Engineering Certificate </h4>
           <h4> ✡ Stanford Online & DeepLearning.AI: Machine Learning Specialization Certificate </h4>
           <h4> ✡ DeepLearning.AI: Mathematics for Machine Learning and Data Science Specialization Certificate</h4>
           <h4> ✡ University of Colorado Boulder: Mind and Machine Specialization Certificate </h4>
           <h4> ✡ Duke University: Python, Bash and SQL Essentials for Data Engineering Specialization Certificate </h4>
           <h4> ✡ DeepLearning.AI: TensorFlow Data and Deployment Specialization Certificate </h4>
+        </div>
         
           <hr></hr>
-          
-          <hr className="hrh"></hr>
+ 
           
           <img className="example" src="https://i.postimg.cc/T2bfDJy4/IMG-4607.jpg" align="center" alt="degree"></img>
           <hr></hr>
