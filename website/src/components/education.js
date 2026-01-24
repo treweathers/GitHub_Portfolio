@@ -19,9 +19,7 @@ export default function Education() {
           <h4> ✡ Duke University: Python, Bash and SQL Essentials for Data Engineering Specialization Certificate </h4>
           <h4> ✡ DeepLearning.AI: TensorFlow Data and Deployment Specialization Certificate </h4>
         </div>
-        
-          <hr></hr>
- 
+         
           <div className="black">
           <img className="example" src="https://i.postimg.cc/T2bfDJy4/IMG-4607.jpg" align="center" alt="degree"></img>
           <hr></hr>
