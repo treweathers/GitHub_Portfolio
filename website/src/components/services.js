@@ -4,10 +4,7 @@ export default function Services() {
   return (
       <div className="">
         <Navd Data="/data" Algorithms="/algorithms"  Codes="/codes" Consulting="/consulting" />
-        <hr></hr>
     
-        
-
           <h2 className="white"> Tools | Technologies </h2>
           
           <div className="black">
