@@ -1,3 +1,4 @@
+/*
 export default function Projects() {
     return (
       <div className="">
@@ -6,3 +7,4 @@ export default function Projects() {
         </div>
       )
     }
+*/
