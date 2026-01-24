@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 
-export default function Nav({Home, Aboutme , Services, Projects, Contact, Tutorials}) {
+export default function Nav({Home, Aboutme , Services, Contact, Tutorials}) {
   return (
     <div>
       <nav className="homenav">
@@ -8,7 +8,6 @@ export default function Nav({Home, Aboutme , Services, Projects, Contact, Tutori
           <Link className="link white" to={Home}> Home </Link>
           <Link className="link white" to={Aboutme}> About Me </Link>
           <Link className="link white" to={Services}> Services </Link>
-          <Link className="link white" to={Projects}> Projects </Link>
           <Link className="link white" to={Contact}> Contact </Link>
           <Link className="link white" to={Tutorials}> Tutorials </Link>
       </nav>
@@ -18,6 +17,8 @@ export default function Nav({Home, Aboutme , Services, Projects, Contact, Tutori
 
 
 /*
+Projects, 
+<Link className="link white" to={Projects}> Projects </Link>
 import { Link } from "react-router-dom";
 
 export default function Nav({Home, Aboutme , Services, Projects, Contact, Tutorials}) {
