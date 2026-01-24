@@ -7,8 +7,8 @@ export default function Nav({Home, Aboutme , Education, Services, Contact, Tutor
           <h1 id="title-white"> Tre Weathers </h1>
           <Link className="link white" to={Home}> Home </Link>
           <Link className="link white" to={Aboutme}> About Me </Link>
-          <Link className="link black" to={Education}> Education </Link>
-          <Link className="link white" to={Services}> Skills </Link>
+          <Link className="link white" to={Education}> Education </Link>
+          <Link className="link white" to={Services}> Services </Link>
           <Link className="link white" to={Contact}> Contact </Link>
           <Link className="link white" to={Tutorials}> Tutorials </Link>
       </nav>
