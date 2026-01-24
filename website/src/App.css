@@ -240,10 +240,10 @@ h1, h2, h3, h4, h5, h6, p {
   width: 600px;
   height: 450px;
   border-style: groove;
-  border-color: dark red;
+  border-color: gold;
   border-width: 5px;
   transition: width 2s, height 4s;
-  background-color: dark red;
+  background-color: gold;
   animation-name: example;
   animation-duration: 4s;
 }
