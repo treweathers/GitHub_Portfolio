@@ -1,5 +1,5 @@
 import Nav from "./nav.js";
-import Navs from "./nav_2.js";
+//import Navs from "./nav_2.js";
 import Navd from "./nav_3.js";
 import Nave from "./nav_4.js";
 import Home from "./home.js";
@@ -35,7 +35,7 @@ export {
   YoutubeEmbed2,
   YoutubeEmbed3,
   Nav,
-  Navs,
+  //Navs,
   Navd,
   Nave,
 }
