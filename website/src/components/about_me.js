@@ -4,7 +4,6 @@ export default function Aboutme() {
   return (
       <div className="aboutme">
         <hr></hr>
-        //<Navs Education="/education" Skills="/skills" Projects="/projects"/>
         
         <p className="aboutrow">
         <h2> Lifelong Learner📚, Advocate🧑‍⚖️, Biohacker🧬, Researcher🥼, Artist🎭, and Technologist🧑‍💻 (LAB RAT) </h2>
@@ -18,6 +17,8 @@ export default function Aboutme() {
   }
 
 /*
-        On track to be Tenured Professor (currently teaching k-12), Attorney (in law school), Biohacker (combining knowledge of human body and computer science to advance human medicine over the next decade or so),
+        //<Navs Education="/education" Skills="/skills" Projects="/projects"/>
+
+        Hopefully on track to be Tenured Professor (currently teaching k-12), Attorney (in law school), Biohacker (combining knowledge of human body and computer science to advance human medicine over the next decade or so),
         Biomedical Engineer (bringing something to market soon - stay tuned), Computational Neuroscientist (taking online courses, dissertation in progress), and that's enough about me! Reach out and tell me about yourself🤩
 */
