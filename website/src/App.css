@@ -143,7 +143,7 @@ h1, h2, h3, h4, h5, h6, p {
   box-shadow: 0 0.4rem 2.4rem 0 rgb(24, 3, 82);
   transform: translateY(-0.1rem);
   transition: transform 150ms;   
-  background-color: rgb(17, 50, 85);
+  background-color: rgb(115, 0, 15);
 }
 .msglink:hover{
   cursor: pointer;
@@ -274,7 +274,6 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 .blue {
-  color: rgb(115, 0, 15);
   text-decoration: underline;
 }
 
