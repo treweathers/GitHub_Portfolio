@@ -3,6 +3,9 @@ import  Navd  from "./nav_3.js";
 export default function Services() {
   return (
       <div className="">
+
+        <a className="github" href="https://github.com/TREYCSE/GitHub_Portfolio"> Click here for GitHub PortFolio README.md </a>
+
         <Navd Data="/data" Algorithms="/algorithms"  Codes="/codes" Consulting="/consulting" />
     
           <h3 className="blue"> Tech Stack </h3>
@@ -12,7 +15,6 @@ export default function Services() {
           <h4> Machine Learning | AI | Data: TensorFlow, NumPy, pandas, SciPy, matplotlib </h4>
           </div>
     
-          <a className="github" href="https://github.com/TREYCSE/GitHub_Portfolio"> Click here for GitHub PortFolio README.md </a>
     
       </div>
     )
