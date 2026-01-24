@@ -1,8 +1,8 @@
 export default function Contact() {
     return (
-        <div className="link2">
-          <a className="msglink" href="https://www.linkedin.com/in/treweathers/"> LinkedIn </a>
-          <h2 className="black"> treweathers@proton.me </h2>
+        <div>
+          <a className="link2" href="https://www.linkedin.com/in/treweathers/"> LinkedIn </a>
+          <h2> treweathers@proton.me </h2>
         </div>
       )
     }
