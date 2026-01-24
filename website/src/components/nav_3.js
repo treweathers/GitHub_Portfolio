@@ -7,7 +7,7 @@ export default function Navd({Data, Algorithms, Codes}) {
 
           <Link className="link2 black" to={Codes}> Frontend Engineering </Link>
             <div className="black">
-            <p className="tiny">🌘Front-End Development: Code Websites using React.js and other compatible frameworks</p>
+            <p className="tiny">🌘Frontend Development: Code Websites using React.js and other compatible frameworks</p>
             <p className="tiny">🌖Backend Development: Algorithms and Data Structures with Java </p>
             </div>
 
