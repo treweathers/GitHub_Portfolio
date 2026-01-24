@@ -2,14 +2,19 @@ export default function Education() {
     return (
         <div>
         
-          <h2 className="blue"> Degree Programs </h2>
+          <h2 className="blue"> Degrees </h2>
         
         <div className="black">
           <h4> ✡ St. Francis College: B.S. in Healthcare Management</h4>
           <h4> ✡ Fordham School of Law: JD (Business Law, Human Rights Law) 2021-2026 </h4>
         </div>
-        
-          <h2 className="blue"> Online Certificates </h2>
+
+         <div className="black">
+          <img className="example" src="https://i.postimg.cc/T2bfDJy4/IMG-4607.jpg" align="center" alt="degree"></img>
+          <hr></hr>
+        </div>
+
+          <h2 className="blue"> Certificates </h2>
 
         <div className="black">
           <h4> ✡ General Assembly: Full Stack Software Engineering Certificate </h4>
@@ -21,12 +26,9 @@ export default function Education() {
         </div>
          
           <div className="black">
-          <img className="example" src="https://i.postimg.cc/T2bfDJy4/IMG-4607.jpg" align="center" alt="degree"></img>
+          <img className="example" src="https://i.postimg.cc/rwQZ3rN5/Image-6-29-23-at-6-41-PM.jpg" align="center" alt="vector"></img>
           <hr></hr>
         
-          <img className="example" src="https://i.postimg.cc/rwQZ3rN5/Image-6-29-23-at-6-41-PM.jpg" align="center" alt="vector"></img>
-
-          <hr></hr>
           <img className="example" src="https://i.postimg.cc/3Jrk9k3k/Image-6-20-23-at-7-27-AM.jpg" align="center" alt="vector"></img>
           <hr></hr>
 
