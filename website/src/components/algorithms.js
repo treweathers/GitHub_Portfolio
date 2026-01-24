@@ -2,9 +2,6 @@ export default function Algorithms() {
     return (
       <div>
 
-        <a className="github" href="https://github.com/TREYCSE/GitHub_Portfolio">GitHub PortFolio README.md for Engineers: Click here!</a>
-
-
         <h3> Example 1: Linear Regression Example - Market Analysis for Profit Prediction </h3>
           <div className="example1 black">
 
