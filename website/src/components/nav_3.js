@@ -5,13 +5,11 @@ export default function Navd({Data, Algorithms, Codes}) {
     <div>
       <nav className="servicesnav">
 
-          <hr></hr>
           <Link className="link2 black" to={Data}> Data Science</Link>
             <div className="black">
             <p className="tiny">🌘Data Science, Engineering, Analysis: Data cleaning, Web Services API and Web Scraping, database management and more with SQL, Python, Pandas, and more.</p>
             </div>
 
-            <hr></hr>
     
           <Link className="link2 black" to={Algorithms}> Machine Learning Algorithms </Link>
           
@@ -25,7 +23,6 @@ export default function Navd({Data, Algorithms, Codes}) {
         
             </div>
 
-            <hr></hr>
             <Link className="link2 black" to={Codes}> Software Engineering </Link>
             <div className="black">
             <p className="tiny">🌘Front-End Development: Code Websites using React.js  and other compatible frameworks</p>
