@@ -4,7 +4,7 @@ export default function Services() {
   return (
       <div className="">
 
-        <a className="github" href="https://github.com/TREYCSE/GitHub_Portfolio"> Click here for GitHub PortFolio README.md </a>
+        <a className="github" href="https://github.com/TREYCSE/GitHub_Portfolio"> GitHub - Click here for the accompanying README.md for code snippets and more </a>
 
         <Navd Data="/data" Algorithms="/algorithms"  Codes="/codes" Consulting="/consulting" />
     
