@@ -8,9 +8,8 @@ export default function Services() {
           <h2 className="blue"> Tools | Technologies </h2>
           
           <div className="black">
-          <h4> My Go-to Tech Stack: React, Python, TensorFlow, Java, SQL </h4>
-          <p> Programming: Python, Javascript, React, Node, MongoDB, Django </p>
-          <p> Data Science & Machine Learning | AI: NumPy, TensorFlow, SQL, pandas, SciPy, matplotlib </p>
+          <h4> Go-to Full-Stack Tech Stack: React, Python, TensorFlow, Java, SQL </h4>
+          <p> Machine Learning | AI | Data: NumPy, TensorFlow, SQL, pandas, SciPy, matplotlib </p>
           <p> Research, Development, Troubleshooting and Debugging </p>
           </div>
     
