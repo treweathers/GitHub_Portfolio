@@ -9,8 +9,12 @@ export default function Aboutme() {
         <h2> Lifelong Learner📚, Advocate🧑‍⚖️, Biohacker🧬, Researcher🥼, Artist🎭, and Technologist🧑‍💻 (LAB RAT) </h2>
         <img className="meimg" src="https://i.postimg.cc/9QnRRJJ3/IMG-6355.jpg" alt="that's me right there!"></img>
         
-        <h3 className="black"> Welcome, Earthling! My name is Tre and I am an Educator, Lifelong Learner, and Interdisciplinary Researcher with a goal of learning each valuable skill necessary to pioneer the change that I wish to see in the world! </h3>
-        <p> I hope to continually gain experience to grow myself professionally and offer the same to the schools and organizations that I work with as I work towards a greater goal of personal development and global change. </p>
+        <h3 className="black"> Welcome, Earthling! My name is Tre and I am a Lifelong Learner and Interdisciplinary Researcher with a goal
+        of learning each valuable skill necessary to pioneer the change that I wish to see in the world!
+        I hope to continually gain experience to grow myself professionally and offer the same to the schools and
+        organizations that I work with as I work towards a greater goal of personal development and global change.
+        </h3>
+          
         </p>
       </div>
     )
