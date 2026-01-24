@@ -1,10 +1,10 @@
-import  Navs  from "./nav_2.js";
+//import  Navs  from "./nav_2.js";
 
 export default function Aboutme() {
   return (
       <div className="aboutme">
         <hr></hr>
-        <Navs Education="/education" Skills="/skills" Projects="/projects"/>
+        //<Navs Education="/education" Skills="/skills" Projects="/projects"/>
         
         <p className="aboutrow">
         <h2> Lifelong Learner📚, Advocate🧑‍⚖️, Biohacker🧬, Researcher🥼, Artist🎭, and Technologist🧑‍💻 (LAB RAT) </h2>
