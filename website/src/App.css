@@ -114,11 +114,6 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 .homenav {
-  margin: 15px;
-  margin-bottom: 15px;
-  margin-top: 15px;
-  margin-left: 10px;
-  margin-right: 10px;
   padding: 5px;
   animation-duration: 3s;
   animation-name: slidein;
@@ -134,8 +129,14 @@ h1, h2, h3, h4, h5, h6, p {
   list-style-type: none;
 }
 .link2 {
+  margin: 15px;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 5px;
   color: rgb(248, 221, 15);
-  font-size: 25px;
+  font-size: 18px;
 }
 .link2:hover {
   cursor: pointer;
