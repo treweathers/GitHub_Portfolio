@@ -5,28 +5,23 @@ export default function Navd({Data, Algorithms, Codes}) {
     <div>
       <nav className="servicesnav">
 
-          <Link className="link2 black" to={Data}> Data Science</Link>
-            <div className="black">
-            <p className="tiny">🌘Data Science, Engineering, Analysis: Data cleaning, Web Services API and Web Scraping, database management and more with SQL, Python, Pandas, and more.</p>
-            </div>
-
-    
-          <Link className="link2 black" to={Algorithms}> Machine Learning Algorithms </Link>
-          
-          <div className="black">
-          <h4> 🦿 Machine Learning </h4>
-
-            <p className="tiny">🌘Problem Solving (predictions) using Machine Learning Algorithms </p>
-            <p className="tiny">🌖Model Training & Fine-Tuning | Diagnostics </p>
-            <p className="tiny">🌕Model Use for Development | Models from TensorFlow.js Hub for Developers </p>
-        
-        
-            </div>
-
-            <Link className="link2 black" to={Codes}> Software Engineering </Link>
+          <Link className="link2 black" to={Codes}> Frontend Engineering </Link>
             <div className="black">
             <p className="tiny">🌘Front-End Development: Code Websites using React.js  and other compatible frameworks</p>
             <p className="tiny">🌖Backend Development: Algorithms and Data Structures with Java </p>
+            </div>
+
+         <Link className="link2 black" to={Algorithms}> Machine Learning </Link>
+            <div className="black">
+            <h4> 🦿 Machine Learning </h4>
+            <p className="tiny">🌘Problem Solving (predictions) using Machine Learning Algorithms </p>
+            <p className="tiny">🌖Model Training & Fine-Tuning | Diagnostics </p>
+            <p className="tiny">🌕Model Use for Development | Models from TensorFlow.js Hub for Developers </p>
+            </div>
+          
+          <Link className="link2 black" to={Data}> Data Science & Engineering </Link>
+            <div className="black">
+            <p className="tiny">🌘Data Science, Engineering, Analysis: Data cleaning, Web Services API and Web Scraping, database management and more with SQL, Python, Pandas, and more.</p>
             </div>
 
       </nav>
