@@ -1,11 +1,11 @@
 import { Link } from "react-router-dom";
-
-export default function Navs({Education, Skills, Projects}) {
+//Skills, Projects
+//<Link className="link black" to={Skills}> Skills </Link>
+export default function Navs({Education}) {
   return (
     <div>
       <nav className="aboutmenav">
           <Link className="link black" to={Education}> Education and Work History </Link>
-          <Link className="link black" to={Skills}> Skills </Link>
       </nav>
     </div>
   );
