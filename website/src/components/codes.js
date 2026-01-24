@@ -2,8 +2,7 @@ export default function Codes() {
   return (
     <div className="">
 
-<hr></hr>
-        <h2 className=""> Example 1: This Website! </h2>
+    <h2 className=""> Example 1: This Website! </h2>
         <p className="black">If it was not already assumed, I wrote the code for this website myself using the React.js library for the frontend and GitHub actions, yarn, and Microsoft Azure to deploy. </p>
 
         <h2 className=""> Example 2: The Virtual Classroom </h2>
