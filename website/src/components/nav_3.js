@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 
-export default function Navd({Data, Algorithms, Codes, Consulting}) {
+export default function Navd({Data, Algorithms, Codes}) {
   return (
     <div>
       <nav className="servicesnav">
@@ -18,7 +18,7 @@ export default function Navd({Data, Algorithms, Codes, Consulting}) {
           <div className="black">
           <h4> 🦿 Machine Learning </h4>
 
-            <p className="tiny">🌘 Problem Solving (predictions) using Machine Learning Algorithms </p>
+            <p className="tiny">🌘Problem Solving (predictions) using Machine Learning Algorithms </p>
             <p className="tiny">🌖Model Training & Fine-Tuning | Diagnostics </p>
             <p className="tiny">🌕Model Use for Development | Models from TensorFlow.js Hub for Developers </p>
         
@@ -32,11 +32,6 @@ export default function Navd({Data, Algorithms, Codes, Consulting}) {
             <p className="tiny">🌖Backend Development: Algorithms and Data Structures with Java </p>
             </div>
 
-            <hr></hr>
-            <Link className="link2 black" to={Consulting}> Project Consulting </Link>
-            <div className="black">
-            <p className="tiny">🌕 Project Scope Management</p>
-            <p className="tiny">🌕 Algorithm Anomaly Detection | Troubleshooting | Debugging </p>
             </div>
 
       </nav>
@@ -46,6 +41,12 @@ export default function Navd({Data, Algorithms, Codes, Consulting}) {
 
 /* Switching portfolio style from from a broad compilation of skills to a focused display of specialties
 
+            <hr></hr>
+            <Link className="link2 black" to={Consulting}> Project Consulting </Link>
+            <div className="black">
+            <p className="tiny">🌕 Project Scope Management</p>
+            <p className="tiny">🌕 Algorithm Anomaly Detection | Troubleshooting | Debugging </p>
+            
 <p className="tiny">🌖Backend Development: Data Seeding, Modeling, etc. with MongoDB and Django </p>
 
           <h4>🦿 Types of Learning Algorithms</h4>
