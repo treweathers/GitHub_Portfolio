@@ -11,7 +11,7 @@ import Contact from "./contact.js"
 import Data from "./data.js";
 import Education from "./education.js"
 import Projects from "./projects_2.js"
-import Skills from "./skills.js"
+//import Skills from "./skills.js"
 import Services from "./services.js"
 import Tutorials from "./tutorials.js";
 import YoutubeEmbed from "./hardware.js";
@@ -28,7 +28,7 @@ export {
   Data,
   Education,
   Projects,
-  Skills,
+  //Skills,
   Services,
   Tutorials,
   YoutubeEmbed,
