@@ -7,16 +7,15 @@ export default function Navd({Data, Algorithms, Codes}) {
 
           <Link className="link2 black" to={Codes}> Frontend Engineering </Link>
             <div className="black">
-            <p className="tiny">🌘Front-End Development: Code Websites using React.js  and other compatible frameworks</p>
+            <p className="tiny">🌘Front-End Development: Code Websites using React.js and other compatible frameworks</p>
             <p className="tiny">🌖Backend Development: Algorithms and Data Structures with Java </p>
             </div>
 
          <Link className="link2 black" to={Algorithms}> Machine Learning </Link>
             <div className="black">
-            <h4> 🦿 Machine Learning </h4>
-            <p className="tiny">🌘Problem Solving (predictions) using Machine Learning Algorithms </p>
-            <p className="tiny">🌖Model Training & Fine-Tuning | Diagnostics </p>
-            <p className="tiny">🌕Model Use for Development | Models from TensorFlow.js Hub for Developers </p>
+            <p className="tiny">🌘Problem Solving using Machine and Deep Learning Algorithms </p>
+            <p className="tiny">🌖Model Training & Fine-Tuning </p>
+            <p className="tiny">🌕Model Use for Web Development </p>
             </div>
           
           <Link className="link2 black" to={Data}> Data Science & Engineering </Link>
@@ -30,7 +29,7 @@ export default function Navd({Data, Algorithms, Codes}) {
 }
 
 /* Switching portfolio style from from a broad compilation of skills to a focused display of specialties
-
+| Diagnostics | Models from TensorFlow.js Hub for Developers
             <hr></hr>
             <Link className="link2 black" to={Consulting}> Project Consulting </Link>
             <div className="black">
