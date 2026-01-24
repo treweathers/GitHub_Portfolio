@@ -8,8 +8,8 @@ export default function Services() {
           <h2 className="blue"> Tech Stack </h2>
           
           <div className="black">
-          <h4> "Go-to" Full-Stack: React, Python, TensorFlow, Java, SQL </h4>
-          <h4> Machine Learning | AI | Data: NumPy, TensorFlow, SQL, pandas, SciPy, matplotlib </h4>
+          <h4> "Go-to" Full-Stack: React, Python, Java, SQL </h4>
+          <h4> Machine Learning | AI | Data: TensorFlow, NumPy, pandas, SciPy, matplotlib </h4>
           </div>
     
           <a className="github" href="https://github.com/TREYCSE/GitHub_Portfolio">GitHub PortFolio README.md for Engineers</a>
