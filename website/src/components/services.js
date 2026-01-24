@@ -12,7 +12,7 @@ export default function Services() {
           <h4> Machine Learning | AI | Data: TensorFlow, NumPy, pandas, SciPy, matplotlib </h4>
           </div>
     
-          <a className="github" href="https://github.com/TREYCSE/GitHub_Portfolio">GitHub PortFolio README.md </a>
+          <a className="github" href="https://github.com/TREYCSE/GitHub_Portfolio"> Click here for GitHub PortFolio README.md </a>
     
       </div>
     )
