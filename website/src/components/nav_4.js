@@ -7,9 +7,9 @@ export default function Nave({YoutubeEmbed, YoutubeEmbed2, YoutubeEmbed3}) {
       <nav className="tutorialsnav">
     
 
-          <Link className="link2 black" to={YoutubeEmbed}> Making Your Machine Ready To Learn </Link>
-          <Link className="link2 black" to={YoutubeEmbed2}> Deep Learning | Neural Networks </Link>
-          <Link className="link2 black" to={YoutubeEmbed3}> AI for Production </Link>
+          <Link className="link2 black" to={YoutubeEmbed}> Frontend </Link>
+          <Link className="link2 black" to={YoutubeEmbed2}> Backend </Link>
+          <Link className="link2 black" to={YoutubeEmbed3}> Artificial Intelligence </Link>
    
 
       </nav>
