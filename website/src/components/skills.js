@@ -1,3 +1,4 @@
+/*
 export default function Skills() {
     return (
       <div>
@@ -23,3 +24,4 @@ export default function Skills() {
         </div>
       )
     }
+*/
