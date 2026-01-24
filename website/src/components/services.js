@@ -14,8 +14,6 @@ export default function Services() {
           <p> Big Data tools: Google Cloud, AWS, Azure, Spark </p>
           </div>
     
-          <hr className="hrhr"></hr>
-
           <h2 className="white"> Administrative | Consulting | Management</h2>
          
           <div className="black">
@@ -31,6 +29,8 @@ export default function Services() {
   }
 
 /*
+          <hr className="hrhr"></hr>
+
         <h1 className="white">Skills</h1>
         <h3> click buttons below for code samples, results, summaries, visuals, and more from my completed and in-progress projects! </h3>
 
