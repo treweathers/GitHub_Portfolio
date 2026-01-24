@@ -2,11 +2,11 @@ export default function Education() {
     return (
         <div className="black">
         
-          <h3 className="blue"> Degree Programs </h3>
+          <h1 className="blue"> Degree Programs </h1>
           <h4> ✡ St. Francis College: B.S. in Healthcare Management</h4>
           <h4> ✡ Fordham School of Law: JD (Business Law, Human Rights Law) 2021-2026 </h4>
         
-         <h3 className="blue"> Online Certificates </h3>
+          <h1 className="blue"> Online Certificates </h1>
           <h4> ✡ General Assembly: Full Stack Software Engineering Certificate </h4>
           <h4> ✡ Stanford Online & DeepLearning.AI: Machine Learning Specialization Certificate </h4>
           <h4> ✡ DeepLearning.AI: Mathematics for Machine Learning and Data Science Specialization Certificate</h4>
