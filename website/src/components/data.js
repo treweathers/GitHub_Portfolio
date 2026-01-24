@@ -2,7 +2,7 @@ export default function Data() {
   return (
     <div className="">
           <h3> WEB SCRAPER </h3>
-          <a href = "https://github.com/TREYCSE/Web_Scraper_csv" className="black">  Web scraping tool in progress </a>
+          <a href = "https://github.com/TREYCSE/Web_Scraper_csv" className="github">  Web scraping tool in progress </a>
           <h4 className="black"> The Web Scraper is made with Scrapy in Python and the data is saved as json files.
                 I am scraping Legal data from government websites such as pulling articles from the Constitution full text online.
                 Now that the data has been parsed, I am focusing on deploying and automation with Azure PostgreSQL and GitHub Actions.
