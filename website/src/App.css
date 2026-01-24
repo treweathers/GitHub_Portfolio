@@ -243,7 +243,7 @@ h1, h2, h3, h4, h5, h6, p {
   border-color: rgb(115, 0, 15);
   border-width: 5px;
   transition: width 2s, height 4s;
-  background-color: red;
+  background-color: rgb(115, 0, 15);
   animation-name: example;
   animation-duration: 4s;
 }
