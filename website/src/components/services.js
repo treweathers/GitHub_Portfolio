@@ -7,6 +7,8 @@ export default function Services() {
     
         <a className="github" href="https://github.com/TREYCSE/GitHub_Portfolio"> GitHub - Click here for the accompanying README.md for code snippets and more </a>
 
+       <p> </p>
+    
         <Navd Data="/data" Algorithms="/algorithms"  Codes="/codes" Consulting="/consulting" />
     
           <h3 className="blue"> Tech Stack </h3>
