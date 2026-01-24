@@ -32,8 +32,6 @@ export default function Navd({Data, Algorithms, Codes}) {
             <p className="tiny">🌖Backend Development: Algorithms and Data Structures with Java </p>
             </div>
 
-            </div>
-
       </nav>
     </div>
   );
@@ -46,6 +44,8 @@ export default function Navd({Data, Algorithms, Codes}) {
             <div className="black">
             <p className="tiny">🌕 Project Scope Management</p>
             <p className="tiny">🌕 Algorithm Anomaly Detection | Troubleshooting | Debugging </p>
+            
+            </div>
             
 <p className="tiny">🌖Backend Development: Data Seeding, Modeling, etc. with MongoDB and Django </p>
 
