@@ -5,7 +5,7 @@ export default function Codes() {
     <h2 className=""> Example 1: This Website! </h2>
         <p className="black">If it was not already assumed, I wrote the code for this website myself using the React.js library for the frontend and GitHub actions, yarn, and Microsoft Azure to deploy. </p>
 
-        <h2 className=""> Example 2: The Virtual Classroom </h2>
+        <h2 className=""> Example 2: The Virtual Detention </h2>
         <p className="black"> This was my capstone for the software engineering bootcamp where I began my studies.
     While AI was not a part of the program, by the end I was heavily interested.
     To incorporate this, I integrated the BERT Q&A model into my website using TensorFlow backend, allowing users to extract details from the content of a given passage through q&a. 
