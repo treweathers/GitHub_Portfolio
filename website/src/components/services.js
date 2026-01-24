@@ -2,8 +2,9 @@ import  Navd  from "./nav_3.js";
 
 export default function Services() {
   return (
-      <div className="">
-
+      <div>
+        <p> </p>
+    
         <a className="github" href="https://github.com/TREYCSE/GitHub_Portfolio"> GitHub - Click here for the accompanying README.md for code snippets and more </a>
 
         <Navd Data="/data" Algorithms="/algorithms"  Codes="/codes" Consulting="/consulting" />
