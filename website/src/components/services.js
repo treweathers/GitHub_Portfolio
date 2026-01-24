@@ -8,18 +8,10 @@ export default function Services() {
           <h2 className="blue"> Tools | Technologies </h2>
           
           <div className="black">
-          <h4> My Go-to Tech Stack: TensorFlow, Python, SQL, Node.js, React.js </h4>
+          <h4> My Go-to Tech Stack: React, Python, TensorFlow, Java, SQL </h4>
           <p> Programming: Python, Javascript, React, Node, MongoDB, Django </p>
-          <p> Data Science & Machine Learning | AI: NumPy, TensorFlow, SQL, pandas, scipy, matplotlib </p>
-          <p> Big Data tools: Google Cloud, AWS, Azure, Spark </p>
-          </div>
-    
-          <h2 className="blue"> Administrative | Consulting | Management</h2>
-         
-          <div className="black">
-          <p> Project planning and scope management: Microsoft Suite & Google Suite </p>
-          <p> Troubleshooting and Debugging: GitHub, online planners and ^^ </p>
-          <p> Research: experience navigating various types of databases </p>
+          <p> Data Science & Machine Learning | AI: NumPy, TensorFlow, SQL, pandas, SciPy, matplotlib </p>
+          <p> Research, Development, Troubleshooting and Debugging </p>
           </div>
     
           <a className="github" href="https://github.com/TREYCSE/GitHub_Portfolio">GitHub PortFolio README.md for Engineers</a>
@@ -27,8 +19,12 @@ export default function Services() {
       </div>
     )
   }
-
 /*
+ <h2 className="blue"> Administrative | Consulting | Management</h2>
+ <p> Project planning and scope management: Microsoft Suite & Google Suite </p>
+ <p> Research: experience navigating various types of databases </p>
+           <p> Big Data tools: Google Cloud, AWS, Azure, Spark </p>
+
           <hr className="hrhr"></hr>
 
         <h1 className="white">Skills</h1>
