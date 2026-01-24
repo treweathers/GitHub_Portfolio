@@ -5,10 +5,7 @@ export default function Services() {
       <div className="">
         <Navd Data="/data" Algorithms="/algorithms"  Codes="/codes" Consulting="/consulting" />
         <hr></hr>
-        <a className="github" href="https://github.com/TREYCSE/GitHub_Portfolio">GitHub PortFolio README.md for Engineers: Click here for code samples, etc.</a>
-
-        <h1 className="white">Skills</h1>
-
+    
         <div className="black">
 
           <h2> Tools | Technologies </h2>
@@ -17,7 +14,7 @@ export default function Services() {
           <p> Data Science & Machine Learning | AI: NumPy, TensorFlow, SQL, pandas, scipy, matplotlib </p>
           <p> Big Data tools: Google Cloud, AWS, Azure, Spark </p>
 
-<hr className="hrhr"></hr>
+        <hr className="hrhr"></hr>
 
           <h2> Administrative | Consulting | Management</h2>
           <p> Project planning and scope management: Microsoft Suite & Google Suite </p>
@@ -25,11 +22,15 @@ export default function Services() {
           <p> Research: experience navigating various types of databases </p>
           
         </div>
+
+          <a className="github" href="https://github.com/TREYCSE/GitHub_Portfolio">GitHub PortFolio README.md for Engineers: Click here for code samples, etc.</a>
+    
       </div>
     )
   }
 
 /*
+        <h1 className="white">Skills</h1>
         <h3> click buttons below for code samples, results, summaries, visuals, and more from my completed and in-progress projects! </h3>
 
 */
