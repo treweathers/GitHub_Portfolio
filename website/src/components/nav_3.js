@@ -29,7 +29,7 @@ export default function Navd({Data, Algorithms, Codes, Consulting}) {
             <Link className="link2 black" to={Codes}> Software Engineering </Link>
             <div className="black">
             <p className="tiny">🌘Front-End Development: Code Websites using React.js  and other compatible frameworks</p>
-            <p className="tiny">🌖Backend Development: Data Seeding, Modeling, etc. with MongoDB and Django </p>
+            <p className="tiny">🌖Backend Development: Algorithms and Data Structures with Java </p>
             </div>
 
             <hr></hr>
@@ -45,6 +45,9 @@ export default function Navd({Data, Algorithms, Codes, Consulting}) {
 }
 
 /* Switching portfolio style from from a broad compilation of skills to a focused display of specialties
+
+<p className="tiny">🌖Backend Development: Data Seeding, Modeling, etc. with MongoDB and Django </p>
+
           <h4>🦿 Types of Learning Algorithms</h4>
 
             <h5> 🦾Supervised Learning </h5>
