@@ -15,7 +15,7 @@ export default function Codes() {
         <p className="black"> TensorFlow BERT Model from TensorFlowHub w/ Tensorflow cpu, WebGL, Node.js, and React.js for AI and Frontend, Azure to deploy, Axios to fetch 3rd party API
         from NASA, and TensorFlow BERT Q&A model for Natural Language Question Answering.</p>
           
-        <a className="github" href="https://proud-plant-0981ce810.3.azurestaticapps.net/"> Site Link - click here to go to the Virtual Class! </a>
+        <a className="github" href="https://proud-plant-0981ce810.3.azurestaticapps.net/"> Site Link - Click here to go to the Virtual Class! </a>
           
        <h3>Snapshots</h3>
        <img className="exampleer" src="https://i.imgur.com/9qRZRqA.jpg" align="center" alt="capstone1"></img>
