@@ -2,7 +2,7 @@ export default function Contact() {
     return (
         <div>
           <h2> treweathers@proton.me </h2>
-          <a className="link2" href="https://www.linkedin.com/in/treweathers/"> LinkedIn </a>
+          <a className="link2 black" href="https://www.linkedin.com/in/treweathers/"> LinkedIn </a>
 
         </div>
       )
