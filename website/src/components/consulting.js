@@ -1,3 +1,4 @@
+/*
 export default function Consulting() {
     return (
       <div className="">
@@ -31,3 +32,4 @@ export default function Consulting() {
         </div>
       )
     }
+*/
