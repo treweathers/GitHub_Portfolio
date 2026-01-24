@@ -23,7 +23,7 @@ export default function Services() {
           
         </div>
 
-          <a className="github" href="https://github.com/TREYCSE/GitHub_Portfolio">GitHub PortFolio README.md for Engineers: Click here for code samples, etc.</a>
+          <p> <a className="github" href="https://github.com/TREYCSE/GitHub_Portfolio">GitHub PortFolio README.md for Engineers: Click here for code samples, etc.</a> </p>
     
       </div>
     )
