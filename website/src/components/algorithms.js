@@ -1,6 +1,6 @@
 export default function Algorithms() {
     return (
-      <div className="services">
+      <div>
 
         <a className="github" href="https://github.com/TREYCSE/GitHub_Portfolio">GitHub PortFolio README.md for Engineers: Click here!</a>
 
