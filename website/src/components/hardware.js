@@ -3,7 +3,30 @@ import PropTypes from "prop-types";
 
 const YoutubeEmbed = ({embedId}) => (
   <div>
-    <iframe
+  <iframe>
+    className="video-big"
+    width="774"
+    height="435"
+    src="https://www.youtube.com/embed/WG5ikvJ2TKA"
+    title="Frontend web development - a complete overview"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    title="Embedded youtube"
+  </iframe>
+  
+  </div>
+);
+
+YoutubeEmbed.propTypes = {
+  embedId: PropTypes.string.isRequired
+};
+
+export default YoutubeEmbed;
+
+/*
+<iframe
       className="video-big"
       width="853"
       height="480"
@@ -13,12 +36,5 @@ const YoutubeEmbed = ({embedId}) => (
       allowFullScreen
       title="Embedded youtube"
     />
-  </div>
-);
-
-YoutubeEmbed.propTypes = {
-  embedId: PropTypes.string.isRequired
-};
-
-export default YoutubeEmbed;
+*/
 
