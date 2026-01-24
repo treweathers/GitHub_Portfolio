@@ -4,7 +4,7 @@ export default function Tutorials() {
   return (
       <div>
 
-        <h3> ⭐️Helpful Videos for Beginners⭐️ </h3>
+        <h3> ⭐️ Helpful Videos for Beginners ⭐️ </h3>
 
         <Nave YoutubeEmbed="/hardware"  YoutubeEmbed3="/production" YoutubeEmbed2="/neural_networks"/>
         
