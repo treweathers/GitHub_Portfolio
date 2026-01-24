@@ -22,12 +22,6 @@ export default function Navd({Data, Algorithms, Codes, Consulting}) {
             <p className="tiny">🌖Model Training & Fine-Tuning | Diagnostics </p>
             <p className="tiny">🌕Model Use for Development | Models from TensorFlow.js Hub for Developers </p>
         
-          <h4>🦿 Types of Learning Algorithms</h4>
-
-            <h5> 🦾Supervised Learning </h5>
-            <p className="tiny">Linear Regression | Logistic Regression | Binary, Multiclass, & Multilabel Classification | Deep Learning</p>
-            <h5> 🦾Unsupervised Learning </h5>
-            <p className="tiny">Recommender Systems | Reinforcement Learning</p>
         
             </div>
 
@@ -49,6 +43,16 @@ export default function Navd({Data, Algorithms, Codes, Consulting}) {
     </div>
   );
 }
+
+/* Switching portfolio style from from a broad compilation of skills to a focused display of specialties
+          <h4>🦿 Types of Learning Algorithms</h4>
+
+            <h5> 🦾Supervised Learning </h5>
+            <p className="tiny">Linear Regression | Logistic Regression | Binary, Multiclass, & Multilabel Classification | Deep Learning</p>
+            <h5> 🦾Unsupervised Learning </h5>
+            <p className="tiny">Recommender Systems | Reinforcement Learning</p>
+
+*/
 
 
 //            <p className="tiny">🌖Data Analysis:  </p>
