@@ -12,7 +12,7 @@ import Data from "./data.js";
 import Education from "./education.js";
 //import Projects from "./projects_2.js";
 //import Skills from "./skills.js";
-import Skills from "./skills.js"
+import Skills from "./skills.js";
 import Learn from "./learn.js";
 import YoutubeEmbed from "./frontend.js";
 import YoutubeEmbed2 from "./backend.js";
