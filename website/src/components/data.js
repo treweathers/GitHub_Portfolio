@@ -7,7 +7,7 @@ export default function Data() {
                 In the future when parsing data for a larger AI project, I will focus on deploying and automation with Azure PostgreSQL and GitHub Actions.
                 In addition, I will pivit to looking for websites to scrape that are better formatted and therefore better to parse through.
           </h4>
-          <img className="example" src="https://i.postimg.cc/9Qb6SHSp/Screenshot-2026-01-24-at-5-31-02-PM.png" align="center" alt="constitution"></img>
+          <img className="video-big" src="https://i.postimg.cc/9Qb6SHSp/Screenshot-2026-01-24-at-5-31-02-PM.png" align="center" alt="constitution"></img>
           <p></p>
           <a href = "https://github.com/TREYCSE/Web_Scraper_csv" className="github">  Click here for repo </a>
           <p></p>
