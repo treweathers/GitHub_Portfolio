@@ -3,8 +3,8 @@ import  Navd  from "./nav_3.js";
 export default function Skills() {
   return (
       <div>
-    <h2> </h2>
-    <h2> </h2>
+    <h1> </h1>
+<div>
     
         <Navd Data="/data" Algorithms="/algorithms"  Codes="/codes" Consulting="/consulting" />
 
@@ -19,6 +19,7 @@ export default function Skills() {
           <h4> Machine Learning | AI | Data: TensorFlow, NumPy, pandas, SciPy, matplotlib </h4>
           </div>
     
+    </div>
     
       </div>
     )
