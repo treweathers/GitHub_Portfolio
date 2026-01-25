@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-const YoutubeEmbed3 = ({ embedId}) => (
+const YoutubeEmbed3 = ({embedId}) => (
   <div>
     <iframe
       className="video-big"
