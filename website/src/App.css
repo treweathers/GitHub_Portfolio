@@ -1,7 +1,8 @@
 @media (min-width: 10px) and (max-width: 299px){
-* {
-  min-height: 100%
-}
+  .App {
+min-height: 100vh;
+  }
+  
   .exampleee,   .exampleer , .examplees, .examplee, .meimg, .transparent {
     max-width: 30px;
     height: 30px;
@@ -16,9 +17,6 @@
   img {
     max-width: 10px;
     height: 10px;
-  }
-  .App {
-min-height: 100%
   }
 
   .link {
@@ -41,7 +39,7 @@ min-height: 100%
   }
   .App {
     min-width: 600px;
-    min-height: 100%
+min-height: 100vh;
   }
   .video-big {
     width: 300px;
@@ -75,7 +73,7 @@ min-height: 100%
   .App {
     min-width: 800px;
     width: 100%;
-    min-height: 100%
+min-height: 100vh;
 
   }
 }
@@ -98,7 +96,7 @@ h1, h2, h3, h4, h5, h6, p {
   background-color: black;
   background-size: cover;
   width: 100%;
-  min-height: 100%
+min-height: 100vh;
 
 }
 
