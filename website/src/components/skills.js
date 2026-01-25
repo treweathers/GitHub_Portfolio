@@ -3,7 +3,7 @@ import  Navd  from "./nav_3.js";
 export default function Skills() {
   return (
       <div>
-
+      <p> </p>
        <p> </p>
     
         <Navd Data="/data" Algorithms="/algorithms"  Codes="/codes" Consulting="/consulting" />
