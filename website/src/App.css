@@ -72,8 +72,6 @@
     min-width: 800px;
     width: 100%;
     height: 100%;
-    inline-size: fit-content;
-    block-size: fit-content;
 
   }
 }
@@ -97,8 +95,6 @@ h1, h2, h3, h4, h5, h6, p {
   background-size: cover;
   width: 100%;
   height: 100%;
-  inline-size: fit-content;
-  block-size: fit-content;
 
 }
 
