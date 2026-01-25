@@ -4,21 +4,24 @@ export default function Skills() {
   return (
       <div>
     <h1> </h1>
-    <p></p>
+     <h1> </h1>
+    
 <div>
     
         <Navd Data="/data" Algorithms="/algorithms"  Codes="/codes" Consulting="/consulting" />
 
      <p> </p>
-    
-        <a className="github" href="https://github.com/TREYCSE/GitHub_Portfolio"> GitHub - Click here for the accompanying README.md for code snippets and more </a>
-          
+              
     <h3 className="blue"> Tech Stack </h3>
           
           <div className="black">
           <h4> "Go-to" Full-Stack: React, Python, Java, SQL </h4>
           <h4> Machine Learning | AI | Data: TensorFlow, NumPy, pandas, SciPy, matplotlib </h4>
           </div>
+    
+    <p> </p>
+          <a className="github" href="https://github.com/TREYCSE/GitHub_Portfolio"> GitHub - Click here for the accompanying README.md for code snippets and more </a>
+
     
     </div>
     
