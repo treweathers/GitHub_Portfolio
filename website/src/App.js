@@ -1,6 +1,6 @@
 import React from "react";  //useState, useEffect } 
 import { Routes, Route } from 'react-router-dom';
-import { Nav, Home, Aboutme, Algorithms, Codes, Contact, Data, Education, Skills, Tutorials, YoutubeEmbed, YoutubeEmbed2, YoutubeEmbed3} from './components/index.js'
+import { Nav, Home, Aboutme, Algorithms, Codes, Contact, Data, Education, Skills, Learn, YoutubeEmbed, YoutubeEmbed2, YoutubeEmbed3} from './components/index.js'
 import './App.css';
 
 //use HashRouter to fix manual reloading? - make sure to import up top, change keywords below, and change from BrowserRouter in index.js
