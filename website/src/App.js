@@ -1,5 +1,5 @@
 import React from "react";  //useState, useEffect } 
-import { Routes, Route, Redirect } from 'react-router-dom';
+import { Routes, Route, Navigate } from 'react-router-dom';
 import { Nav, Home, Aboutme, Algorithms, Codes, Contact, Data, Education, Skills, Learn, YoutubeEmbed, YoutubeEmbed2, YoutubeEmbed3} from './components/index.js'
 import './App.css';
 
@@ -35,7 +35,7 @@ function App() {
         <Route path="/frontend" element={<YoutubeEmbed embedId="Utwnm2kjYAM" embedId3="4SA6t_tcFQA"/>} />
         <Route path="/backend" element={<YoutubeEmbed2 embedId2="_c_x8A3mNDk"/>} />
         <Route path="/ai" element={<YoutubeEmbed3 embedId="NgWujOrCZFo"/>} />
-        <Redirect from="*" to="/" />
+        <Navigate from="*" to="/" />
         </Routes>
 
     </div>
