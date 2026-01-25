@@ -30,7 +30,7 @@ function App() {
         <Route path="/contact" element={<Contact />}/> 
         <Route path="/education" element={<Education />}/>
         <Route path="/skills" element={<Skills />}/> 
-        <Route path="/tutorials" element={<Tutorials />} />
+        <Route path="/learn" element={<Learn />} />
         <Route path="/frontend" element={<YoutubeEmbed embedId="Utwnm2kjYAM" embedId3="4SA6t_tcFQA"/>} />
         <Route path="/backend" element={<YoutubeEmbed2 embedId2="_c_x8A3mNDk"/>} />
         <Route path="/ai" element={<YoutubeEmbed3 embedId="NgWujOrCZFo"/>} />
