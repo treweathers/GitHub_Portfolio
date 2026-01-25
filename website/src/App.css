@@ -1,4 +1,7 @@
 @media (min-width: 10px) and (max-width: 299px){
+* {
+  min-height: 100%
+}
   .exampleee,   .exampleer , .examplees, .examplee, .meimg, .transparent {
     max-width: 30px;
     height: 30px;
