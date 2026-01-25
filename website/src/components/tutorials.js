@@ -1,10 +1,10 @@
 import  Nave  from "./nav_4.js";
 
-export default function Tutorials() {
+export default function Learn() {
   return (
       <div>
         <h3> ⭐️ Helpful Videos for Beginners ⭐️ </h3>
-        <Nave YoutubeEmbed="/hardware"  YoutubeEmbed3="/production" YoutubeEmbed2="/neural_networks"/>
+        <Nave YoutubeEmbed="/frontend"  YoutubeEmbed3="/backend" YoutubeEmbed2="/ai"/>
 
       </div>
     )
