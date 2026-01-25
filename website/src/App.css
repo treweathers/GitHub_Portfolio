@@ -68,6 +68,20 @@
     border-width: 5px;
   }
 
+  .App {
+    min-width: 800px;
+    width: fit-content;
+    height: fit-content;
+    inline-size: fit-content;
+    block-size: fit-content;
+
+  }
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  padding: 0px;
+}
+
 .App {
   text-align: center;
   display: flex;
@@ -77,26 +91,11 @@
   color: white;
   text-align: center;
   justify-content: center;
+  min-height: 1350px;
   font-family: 'Playfair Display', serif;
   list-style-type: none;
   background-color: black;
   background-size: cover;
-  width: 100%;
-  height: 100%;
-}
-
-h1, h2, h3, h4, h5, h6, p {
-  padding: 0px;
-}
-}
-
-.App {
-  min-height: 1350px;
-  min-width: 800px;
-  width: fit-content;
-  height: fit-content;
-  inline-size: fit-content;
-  block-size: fit-content;
 }
 
 .nav {
