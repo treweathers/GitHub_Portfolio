@@ -7,9 +7,9 @@ export default function Nav({Home, Aboutme, Education, Skills, Contact, Learn}) 
           <Link className="link white" to={Home}> Home </Link>
           <Link className="link white" to={Aboutme}> About Me </Link>
           <Link className="link white" to={Education}> Education </Link>
-          <Link className="link white" to={Services}> Skills </Link>
+          <Link className="link white" to={Skills}> Skills </Link>
           <Link className="link white" to={Contact}> Contact </Link>
-          <Link className="link white" to={Tutorials}> Learn </Link>
+          <Link className="link white" to={Learn}> Learn </Link>
       </nav>
     </div>
   );
