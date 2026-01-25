@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-      <div>
+      <div className="homepage">
           <h1 id="title-white"> Tre Weathers </h1>
           <img className="example" src="https://i.postimg.cc/xjvnSwnq/mx05abasr3s01.jpg" align="center" alt="treytheurkel"></img>
           <h1> Website Portfolio </h1>
