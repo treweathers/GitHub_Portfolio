@@ -12,11 +12,11 @@ import Data from "./data.js";
 import Education from "./education.js";
 //import Projects from "./projects_2.js";
 //import Skills from "./skills.js";
-import Services from "./services.js"
-import Tutorials from "./tutorials.js";
-import YoutubeEmbed from "./hardware.js";
-import YoutubeEmbed2 from "./neural_networks.js";
-import YoutubeEmbed3 from "./production.js";
+import Skills from "./skills.js"
+import Learn from "./learn.js";
+import YoutubeEmbed from "./frontend.js";
+import YoutubeEmbed2 from "./backend.js";
+import YoutubeEmbed3 from "./ai.js";
 
 export {
   Home,
@@ -29,8 +29,8 @@ export {
   Education,
   //Projects,
   //Skills,
-  Services,
-  Tutorials,
+  Skills,
+  Learn,
   YoutubeEmbed,
   YoutubeEmbed2,
   YoutubeEmbed3,
