@@ -22,7 +22,7 @@ function App() {
       Learn="/learn" YoutubeEmbed="/frontend" YoutubeEmbed2="backend" YoutubeEmbed3="/ai"/>
 
         <Routes>
-        <Route path="/" element={<Home />}/>
+        <Route exact path="/" element={<Home />}/>
         <Route path="/aboutme" element={<Aboutme />}/>
         <Route path="/algorithms" element={<Algorithms />}/> 
         <Route path="/data" element={<Data />}/> 
