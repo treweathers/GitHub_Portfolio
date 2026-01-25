@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 
-export default function Nav({Home, Aboutme , Education, Services, Contact, Tutorials}) {
+export default function Nav({Home, Aboutme, Education, Skills, Contact, Learn}) {
   return (
     <div>
       <nav className="homenav">
