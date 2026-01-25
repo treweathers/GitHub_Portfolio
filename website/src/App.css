@@ -69,7 +69,6 @@
   }
 
   .App {
-    min-width: 800px;
     width: fit-content;
     height: fit-content;
     inline-size: fit-content;
