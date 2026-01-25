@@ -17,7 +17,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" style={{height: '100vh'}}>
       <Nav Home="/" Aboutme="/aboutme" Algorithms="/algorithms" Codes="/codes" Contact="/contact" Data="/data" Education="/education"  Skills="/skills"
       Learn="/learn" YoutubeEmbed="/frontend" YoutubeEmbed2="backend" YoutubeEmbed3="/ai"/>
 
