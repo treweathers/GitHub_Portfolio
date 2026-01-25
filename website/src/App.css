@@ -1,6 +1,8 @@
 @media (min-width: 10px) and (max-width: 299px){
   .App {
 min-height: 100vh;
+      margin: 5px;
+  padding: 10px;
   }
   
   .exampleee,   .exampleer , .examplees, .examplee, .meimg, .transparent {
