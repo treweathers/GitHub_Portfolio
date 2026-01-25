@@ -8,8 +8,8 @@ export default function Nave({YoutubeEmbed, YoutubeEmbed2, YoutubeEmbed3}) {
     
 
           <Link className="link2 black" to={YoutubeEmbed}> Frontend </Link>
-          <Link className="link2 black" to={YoutubeEmbed2}> Backend </Link>
-          <Link className="link2 black" to={YoutubeEmbed3}> Artificial Intelligence </Link>
+          <Link className="link2 black" to={YoutubeEmbed3}> Backend </Link>
+          <Link className="link2 black" to={YoutubeEmbed2}> Artificial Intelligence </Link>
    
 
       </nav>
