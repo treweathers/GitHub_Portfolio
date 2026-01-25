@@ -15,7 +15,7 @@
     height: 10px;
   }
   .App {
-
+min-height: 100%
   }
 
   .link {
@@ -38,6 +38,7 @@
   }
   .App {
     min-width: 600px;
+    min-height: 100%
   }
   .video-big {
     width: 300px;
