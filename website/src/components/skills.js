@@ -1,6 +1,6 @@
 import  Navd  from "./nav_3.js";
 
-export default function Services() {
+export default function Skills() {
   return (
       <div>
 
