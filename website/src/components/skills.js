@@ -3,6 +3,7 @@ import  Navd  from "./nav_3.js";
 export default function Skills() {
   return (
       <div>
+     <p> </p>
       <p> </p>
        <p> </p>
     
