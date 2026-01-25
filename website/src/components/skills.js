@@ -4,6 +4,7 @@ export default function Skills() {
   return (
       <div>
     <h1> </h1>
+    <p></p>
 <div>
     
         <Navd Data="/data" Algorithms="/algorithms"  Codes="/codes" Consulting="/consulting" />
