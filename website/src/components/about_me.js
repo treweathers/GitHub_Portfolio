@@ -5,7 +5,8 @@ export default function Aboutme() {
       <div className="aboutme">
     
         <p className="aboutrow">
-        <h2> Lifelong Learner📚, Advocate🧑‍⚖️, Biohacker🧬, Researcher🥼, Artist🎭, and Technologist🧑‍💻 (LAB RAT) </h2>
+        <h2 style={{ fontStyle: 'italic' }}> LAB RAT </h2>
+        <h3> Lifelong Learner📚, Advocate🧑‍⚖️, Biohacker🧬, Researcher🥼, Artist🎭, and Technologist🧑‍💻 </h3>
         <img className="meimg" src="https://i.postimg.cc/9QnRRJJ3/IMG-6355.jpg" alt="that's me right there!"></img>
         
         <h3 className="black"> Welcome, Earthling! My name is Tre and I am a Lifelong Learner and Interdisciplinary Researcher with a goal
