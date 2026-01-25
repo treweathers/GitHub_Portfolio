@@ -124,6 +124,7 @@ h1, h2, h3, h4, h5, h6, p {
   margin-right: 10px;
   padding: 5px;
   list-style-type: none;
+  text-decoration: none;
 }
 .link2 {
   margin: 10px;
@@ -134,6 +135,7 @@ h1, h2, h3, h4, h5, h6, p {
   padding: 5px;
   color: rgb(248, 221, 15);
   font-size: 20px;
+  text-decoration: none;
 }
 .link2:hover {
   cursor: pointer;
@@ -163,6 +165,7 @@ h1, h2, h3, h4, h5, h6, p {
   padding: 15px;
   margin: 15px;
   background-color: none;
+  text-decoration: none;
 }
 
 .github {
@@ -190,6 +193,7 @@ h1, h2, h3, h4, h5, h6, p {
   font-weight: bolder;
   background-color: none;
   list-style-type: none;
+  text-decoration: none;
 }
 
 .example {
