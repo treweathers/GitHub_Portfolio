@@ -4,42 +4,7 @@
 ###### Link to portfolio website: https://brave-glacier-00e751b0f.3.azurestaticapps.net/
 
 <h3 align="center">
-2. EDUCATION | Research in Progress | Interdisciplinary Curriculum📚💻
-</h3>
-<h4 align="center">
-  SFC ~ Bachelor of Science
-</h4>
-<img src="https://i.postimg.cc/T2bfDJy4/IMG-4607.jpg" align="center"> 
-<h4 align="center">
-  General Assembly ~ Software Engineering Immersive
-</h4>
-<img src="https://i.postimg.cc/rwQZ3rN5/Image-6-29-23-at-6-41-PM.jpg" align="center"> 
-<h4 align="center">
-  Stanford Online & DeepLearning.AI ~ Machine Learning Specialization
-</h4>
-<img src="https://i.postimg.cc/3Jrk9k3k/Image-6-20-23-at-7-27-AM.jpg" align="center"> </img>
-<h4 align="center">
-  DeepLearning.AI ~ Mathematics for Machine Learning and Data Science Specialization
-</h4>
-<img src="https://i.postimg.cc/gJcGQwxT/Image-9-16-23-at-6-02-PM.jpg" align="center"></img>
-<h4 align="center">
-  University of Colorado Boulder ~ Mind and Machine Specialization
-</h4>
-<img src="https://i.postimg.cc/VNJjLpPG/Image-10-24-23-at-9-23-PM.jpg" align="center"></img>
-<h4 align="center">
-   Duke University ~ Python, Bash and SQL Essentials for Data Engineering Specialization
-</h4>
-<img src="https://i.postimg.cc/Bn71SqdD/Image-10-27-23-at-3-47-PM.jpg" align="center"></img>
-
-<h4 align="center">
-   DeepLearning.AI ~ TensorFlow Data and Deployment Specialization
-</h4>
-<img src="https://i.postimg.cc/Kjmk0wFk/Tensor-Flow-Specialization.png" align="center"></img>
-
-<h4> more courses in progress </h4>
-
-<h3 align="center">
-3. PROJECTS
+PROJECTS
 </h3>
 
 1. DATA SCIENCE
