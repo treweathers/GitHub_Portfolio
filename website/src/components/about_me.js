@@ -9,7 +9,7 @@ export default function Aboutme() {
         <h3> Lifelong Learner📚, Advocate🧑‍⚖️, Biohacker🧬, Researcher🥼, Artist🎭, and Technologist🧑‍💻 </h3>
         <img className="meimg" src="https://i.postimg.cc/9QnRRJJ3/IMG-6355.jpg" alt="that's me right there!"></img>
         <h4 className="black"> 
-          Welcome, Earthling! I'm Tre, a Lifelong Learner and Interdisciplinary Researcher with a goal of learning each valuable skill necessary to pioneer the change that I wish to see in the world!
+          Welcome, Earthling! I'm Tre, an autodidact, lifelong learner and interdisciplinary researcher with a goal of learning each valuable skill necessary to pioneer the change that I wish to see in the world!
           From frontend engineering to AI, I am on the path to mastering engineering ideas from scratch. I have experience using a lot of different tools, but my specialties lean towards full-stack websites with AI functionality.
           I have paused all projects in order to focus one larger scale project that allows me to build each piece myself while adding data visualization to my toolbelt.
           I aim to feel limitless when I conjure up a new idea. There is no thing that I am not willing to learn to bring a creation to life.
