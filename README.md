@@ -3,9 +3,14 @@
 
 ###### Link to portfolio website: https://brave-glacier-00e751b0f.3.azurestaticapps.net/
 
-<h3 align="center">
-PROJECTS
-</h3>
+<h5 align="center">
+From frontend engineering to AI, I am on the path to mastering engineering ideas from scratch. I have experience using a lot of different tools, but my specialties lean towards full-stack websites with AI functionality.
+  I have paused all projects in order to focus one larger scale project that allows me to build each pieve myself while adding data visualization to my toolbelt. I aim to feel limitless when I conjure up a new idea.
+  There is no thing that I am not willing to learn to bring a creation to life. So while these are my specialities for now, I hope to broaden that a bit when I extended further into computer science and engineering with hardware, embdeed systems, IT and more.
+</h5>
+
+<h4> Here you will find some code snippets from projects I've worked on - some in part and some in entirety. </h4>
+
 
 1. DATA SCIENCE
 
