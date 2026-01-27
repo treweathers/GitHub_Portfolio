@@ -3,17 +3,6 @@
 
 ###### Link to portfolio website: https://brave-glacier-00e751b0f.3.azurestaticapps.net/
 
-
-<h3 align="center">
-1. TOOLS & TECHNOLOGIES | Tech Stack
-</h3>
-
-1. Data Science / Engineering / Analysis / AI: Python, Linux, BASH, NumPy, matplotlib, SQL, scrapy, etc.
-2. Machine Learning: Python, Tensorflow, Scipy, matplotlib, etc.
-3. Cloud and Big Data tools: Google Cloud, Azure, AWS and more.
-4. Web Dev: MERN - Javascript/React.js, MongoDB, etc.
-
-
 <h3 align="center">
 2. EDUCATION | Research in Progress | Interdisciplinary Curriculum📚💻
 </h3>
