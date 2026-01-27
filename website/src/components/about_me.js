@@ -8,20 +8,15 @@ export default function Aboutme() {
         <h2 style={{ fontStyle: 'italic' }}> LAB RAT </h2>
         <h3> Lifelong Learner📚, Advocate🧑‍⚖️, Biohacker🧬, Researcher🥼, Artist🎭, and Technologist🧑‍💻 </h3>
         <img className="meimg" src="https://i.postimg.cc/9QnRRJJ3/IMG-6355.jpg" alt="that's me right there!"></img>
-        
-        <h4 className="black"> Welcome, Earthling! My name is Tre and I am a Lifelong Learner and Interdisciplinary Researcher with a goal
-        of learning each valuable skill necessary to pioneer the change that I wish to see in the world!
-        I hope to continually gain experience to grow myself professionally and offer the same to the schools and
-        organizations that I work with as I work towards a greater goal of personal development and global change.
-
-        From frontend engineering to AI, I am on the path to mastering engineering ideas from scratch. I have experience using a lot of different tools, but my specialties lean towards full-stack websites with AI functionality.
+        <h4 className="black"> 
+          Welcome, Earthling! I'm Tre, a Lifelong Learner and Interdisciplinary Researcher with a goal of learning each valuable skill necessary to pioneer the change that I wish to see in the world!
+          From frontend engineering to AI, I am on the path to mastering engineering ideas from scratch. I have experience using a lot of different tools, but my specialties lean towards full-stack websites with AI functionality.
           I have paused all projects in order to focus one larger scale project that allows me to build each piece myself while adding data visualization to my toolbelt.
           I aim to feel limitless when I conjure up a new idea. There is no thing that I am not willing to learn to bring a creation to life.
           So while these are my specialities for now, I hope to broaden that a bit when I extended further into computer science and engineering with hardware, embdeed systems, IT and more.
-
+          I hope to continually gain experience to grow myself professionally and offer the same to the schools and
+          organizations that I work with as I work towards a greater goal of personal development and global change.
         </h4>
-
-        
           
         </p>
       </div>
