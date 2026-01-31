@@ -3,6 +3,8 @@
 
 ###### Link to portfolio website: https://brave-glacier-00e751b0f.3.azurestaticapps.net/
 
+![image](https://i.postimg.cc/YqgbL7jZ/HBS-9694.jpg)
+
 <h5 align="center">
           Welcome, Earthling! I'm Tre, an autodidact, lifelong learner and interdisciplinary researcher with a goal of learning each valuable skill necessary to pioneer the change that I wish to see in the world!
           From frontend engineering to AI, I am on the path to mastering engineering ideas from scratch. I have experience using a lot of different tools, but my specialties lean towards full-stack websites with AI functionality.
