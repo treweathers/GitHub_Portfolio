@@ -1,6 +1,7 @@
 @media (min-width: 10px) and (max-width: 299px){
   .App {
-min-height: 100vh;
+    min-height: 100vh;
+    background-image: url("https://i.postimg.cc/YqgbL7jZ/HBS-9694.jpg");
   }
   
   .exampleee,   .exampleer , .examplees, .examplee, .meimg, .transparent {
