@@ -2,7 +2,7 @@
 </h1>
 
 <p align="center">
-###### Link to portfolio website: https://brave-glacier-00e751b0f.3.azurestaticapps.net/
+Link to portfolio website: https://brave-glacier-00e751b0f.3.azurestaticapps.net/
 </p>
 
 <p align="center">
