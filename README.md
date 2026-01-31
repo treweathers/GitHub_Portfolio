@@ -3,7 +3,7 @@
 
 ###### Link to portfolio website: https://brave-glacier-00e751b0f.3.azurestaticapps.net/
 
-![image](https://i.postimg.cc/YqgbL7jZ/HBS-9694.jpg)
+<img src="https://i.postimg.cc/YqgbL7jZ/HBS-9694.jpg" align="center">
 
 <h5 align="center">
           Welcome, Earthling! I'm Tre, an autodidact, lifelong learner and interdisciplinary researcher with a goal of learning each valuable skill necessary to pioneer the change that I wish to see in the world!
