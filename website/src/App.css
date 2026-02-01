@@ -111,7 +111,7 @@ h1, h2, h3, h4, h5, h6, p {
   background-color: black;
   background-size: cover;
   width: 100vw;
-min-height: 100vh;
+  min-height: 100vh;
   background-image: url("https://i.postimg.cc/C10tPKtm/HBS-9779.jpg");
   background-image: url("https://i.postimg.cc/C10tPKtm/HBS-9779.jpg");
   background-position: center;
@@ -135,6 +135,7 @@ min-height: 100vh;
   padding: 10px;
   position: fixed;
   top: 5px;
+    text-align: center;
 }
 
 .servicesnav{
@@ -143,6 +144,7 @@ min-height: 100vh;
   top: 5px;
   list-style: none;
   padding: 5px;
+    text-align: center;
 }
 
 .tutorialsnav {
@@ -151,6 +153,7 @@ min-height: 100vh;
   position: fixed;
   top: 5px;
   flex-direction: column;
+    text-align: center;
 }
 
 .homenav {
@@ -159,6 +162,7 @@ min-height: 100vh;
   animation-name: slidein;
   position: fixed;
   top: 0px;
+    text-align: center;
 }
 
 .link {
