@@ -9,8 +9,29 @@
     image-rendering: high-quality;
     padding: 0p;
     margin: 5px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin: 5px 5px; 
+    padding: 15px;
+    color: white;
+    
+    justify-content: center;
+    font-family: 'Playfair Display', serif;
+    list-style-type: none;
+    background-color: black;
+    background-size: cover;
+
+    width: 100%;
+  
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    image-rendering: high-quality;
 
   }
+
+
  
   .exampleee,   .exampleer , .examplees, .examplee, .meimg, .transparent {
     max-width: 30px;
