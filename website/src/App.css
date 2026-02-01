@@ -50,8 +50,8 @@
     
 
   }
-  .black {
-  width: 100vw;
+.black, .aboutme {
+  max-width: 100vw;
   margin: 15px;
 }
 
