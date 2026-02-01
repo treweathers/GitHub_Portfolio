@@ -31,7 +31,6 @@
     margin-right: 0px;
 
     display: inline-block;
-    list-style-type: none;
     text-align: center;
     padding-top: 5px;
 
@@ -95,7 +94,6 @@ min-height: 100vh;
     margin-left: 1px;
     margin-right: 1px;
     display: inline-block;
-    list-style-type: none;
     text-align: center;
     padding-top: 5px;
   float: left;
@@ -109,8 +107,7 @@ min-height: 100vh;
   justify-content: space-between;
   animation-duration: 3s;
   animation-name: slidein;
-  position:absolute;
-
+  position: fixed;
   top: 0px;
   text-align: center;
   justify-content: space-between;
@@ -119,12 +116,11 @@ min-height: 100vh;
   height: fit-content;
   inline-size: fit-content;
   block-size: fit-content;
-  margin: 25px;
+  margin: 5px;
   padding: 10px;
-  position:relative;
+  position: fixed;
   top: 5px;
   text-align: center;
-    
 }
 }
 
@@ -150,7 +146,7 @@ min-height: 100vh;
     image-rendering: high-quality;
 
   }
-
+}
 
 h1, h2, h3, h4, h5, h6, p {
   padding: 0px;
@@ -189,7 +185,7 @@ h1, h2, h3, h4, h5, h6, p {
   height: fit-content;
   inline-size: fit-content;
   block-size: fit-content;
-  margin: 5px;
+    margin: 5px;
   padding: 10px;
 }
 
@@ -208,8 +204,7 @@ h1, h2, h3, h4, h5, h6, p {
   justify-content: space-between;
   animation-duration: 3s;
   animation-name: slidein;
-  position:absolute;
-
+  position: fixed;
   top: 0px;
   text-align: center;
   justify-content: space-between;
@@ -218,12 +213,11 @@ h1, h2, h3, h4, h5, h6, p {
   height: fit-content;
   inline-size: fit-content;
   block-size: fit-content;
-  margin: 25px;
+  margin: 5px;
   padding: 10px;
-  position:relative;
+  position: fixed;
   top: 5px;
   text-align: center;
-    
 }
 
 .link {
@@ -232,18 +226,26 @@ h1, h2, h3, h4, h5, h6, p {
   margin-top: 15px;
   margin-left: 10px;
   margin-right: 10px;
+  padding: 5px;
   list-style-type: none;
   text-decoration: none;
   display: inline-block;
   text-align: center;
+  padding-top: 5px;
   color: rgb(255, 255, 255);
   font-size: 25px;
   font-weight: bolder;
   background-color: none;
+  list-style-type: none;
+  text-decoration: none;
+  display: inline-block;
   text-align: center;
   padding-top: 5px;
-  float: left;
+    float: left;
   padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+
 }
 .link2 {
   margin: 10px;
@@ -289,10 +291,10 @@ h1, h2, h3, h4, h5, h6, p {
   margin: 15px;
   background-color: none;
   text-decoration: none;
-  display: inline-block;
-  text-align: center;
-  padding-top: 5px;
-  float: left;
+      display: inline-block;
+    text-align: center;
+    padding-top: 5px;
+    float: left;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
@@ -472,5 +474,4 @@ h1, h2, h3, h4, h5, h6, p {
 }
 .title-white {
   background-color: blue;
-}
 }
