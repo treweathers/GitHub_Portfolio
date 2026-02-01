@@ -136,6 +136,33 @@ h1, h2, h3, h4, h5, h6, p {
   list-style-type: none;
   display: flex;
   flex-direction: row;
+  padding: 5px;
+  width: fit-content;
+  height: fit-content;
+  inline-size: fit-content;
+  block-size: fit-content;
+    margin: 5px;
+  padding: 10px;
+}
+
+.servicesnav{
+  justify-content: center;
+  list-style: none;
+  padding: 5px;
+}
+
+.tutorialsnav {
+  display: flex;
+  flex-direction: column;
+}
+
+.homenav {
+  justify-content: space-between;
+  animation-duration: 3s;
+  animation-name: slidein;
+  position: fixed;
+  top: 0px;
+  text-align: center;
   justify-content: space-between;
   padding: 5px;
   width: fit-content;
@@ -146,34 +173,7 @@ h1, h2, h3, h4, h5, h6, p {
   padding: 10px;
   position: fixed;
   top: 5px;
-    text-align: center;
-}
-
-.servicesnav{
-  justify-content: space-between;
-  position: fixed;
-  top: 5px;
-  list-style: none;
-  padding: 5px;
-    text-align: center;
-}
-
-.tutorialsnav {
-  display: flex;
-  justify-content: space-between;
-  position: fixed;
-  top: 5px;
-  flex-direction: column;
-    text-align: center;
-}
-
-.homenav {
-  justify-content: space-between;
-  animation-duration: 3s;
-  animation-name: slidein;
-  position: fixed;
-  top: 0px;
-    text-align: center;
+  text-align: center;
 }
 
 .link {
