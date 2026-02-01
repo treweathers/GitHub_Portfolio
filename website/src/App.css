@@ -19,7 +19,7 @@ margin: 0;
 
   }
 
-  .exampleee, .exampleer, .examplees, .examplee, .meimg, .transparent {
+.example, .exampleee, .exampleer, .examplees, .examplee, .meimg, .transparent {
     max-width: 30px;
     height: 30px;
   }
@@ -58,7 +58,7 @@ margin: 0;
 
 
 @media (min-width: 300px)  and (max-width: 800px){
-  .exampleee,   .exampleer , .examplees, .examplee, , .transparent{
+.example, .exampleee, .exampleer , .examplees, .examplee, .transparent{
     max-width: 300px;
     max-height: 350px;
   }
@@ -124,7 +124,7 @@ margin: 0;
 
 
 @media (min-width: 801px) and (max-width: 1100px) {
-  .exampleee,   .exampleer , .examplees, .examplee, , .transparent{
+.example,  .exampleee,   .exampleer , .examplees, .examplee, .transparent{
     max-width: 700px;
     max-height: 600px;
   }
