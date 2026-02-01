@@ -1,7 +1,7 @@
 @media (min-width: 10px) and (max-width: 299px){
   .App {
     min-height: 100vh;
-    width: 90vw;
+    width: 100vw;
     background-image: url("https://i.postimg.cc/C10tPKtm/HBS-9779.jpg");
     background-position: center;
     background-repeat: no-repeat;
@@ -9,23 +9,6 @@
     image-rendering: high-quality;
     padding: 0p;
     margin: 5px;
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-    margin: 5px 5px; 
-    padding: 15px;
-    color: white;
-    
-    justify-content: center;
-    font-family: 'Playfair Display', serif;
-    list-style-type: none;
-    background-color: black;
-    background-size: cover;
-  
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: 100% 100%;
-    image-rendering: high-quality;
 
   }
 
