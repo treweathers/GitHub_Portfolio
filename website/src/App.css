@@ -37,8 +37,8 @@
   }
 
   .link {
-    margin-left: 2px;
-    margin-right: 2px;
+    margin-left: 1px;
+    margin-right: 1px;
     padding: 1px;
     display: inline-block;
     text-align: center;
@@ -90,8 +90,8 @@
 
 
   .link {
-    margin-left: 2px;
-    margin-right: 2px;
+    margin-left: 1px;
+    margin-right: 1px;
     padding: 1px;
     display: inline-block;
     text-align: center;
@@ -215,8 +215,8 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 .link {
-  margin-left: 2px;
-  margin-right: 2px;
+  margin-left: 1px;
+  margin-right: 1px;
   padding: 1px;
   list-style-type: none;
   text-decoration: none;
