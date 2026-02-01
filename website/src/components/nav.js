@@ -4,7 +4,7 @@ export default function Nav({Home, Aboutme, Education, Skills, Contact, Learn}) 
   return (
     <div>
       <nav className="homenav">
-          <h4 id="title-white"> Tre Weathers Computer Science Portfolio </h4>
+          <h4 id="title-white"> Tre W. Computer Scientist </h4>
           <Link className="link white" to={Home}> Home </Link>
           <Link className="link white" to={Aboutme}> About Me </Link>
           <Link className="link white" to={Education}> Education </Link>
