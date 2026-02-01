@@ -109,7 +109,8 @@ min-height: 100vh;
   justify-content: space-between;
   animation-duration: 3s;
   animation-name: slidein;
-  position: fixed;
+  position:absolute;
+
   top: 0px;
   text-align: center;
   justify-content: space-between;
@@ -118,11 +119,12 @@ min-height: 100vh;
   height: fit-content;
   inline-size: fit-content;
   block-size: fit-content;
-  margin: 5px;
+  margin: 25px;
   padding: 10px;
-  position: fixed;
+  position:relative;
   top: 5px;
   text-align: center;
+    
 }
 }
 
@@ -203,12 +205,26 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 .homenav {
-  height: 100%;
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  
+  .homenav {
+  justify-content: space-between;
+  animation-duration: 3s;
+  animation-name: slidein;
+  position:absolute;
+
+  top: 0px;
+  text-align: center;
+  justify-content: space-between;
+  padding: 5px;
+  width: fit-content;
+  height: fit-content;
+  inline-size: fit-content;
+  block-size: fit-content;
+  margin: 25px;
+  padding: 10px;
+  position:relative;
+  top: 5px;
+  text-align: center;
+    
 }
 
 .link {
