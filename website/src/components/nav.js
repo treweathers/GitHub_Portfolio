@@ -4,12 +4,12 @@ export default function Nav({Home, Aboutme, Education, Skills, Contact, Learn}) 
   return (
     <div>
       <nav className="homenav">
-          <Link className="link white" to={Home}> Home </Link>
-          <Link className="link white" to={Aboutme}> About </Link>
-          <Link className="link white" to={Education}> Education </Link>
-          <Link className="link white" to={Skills}> Skills </Link>
-          <Link className="link white" to={Contact}> Contact </Link>
-          <Link className="link white" to={Learn}> Learn </Link>
+          <Link className="link white" to={Home}>Home</Link>
+          <Link className="link white" to={Aboutme}>About</Link>
+          <Link className="link white" to={Education}>Education</Link>
+          <Link className="link white" to={Skills}>Skills</Link>
+          <Link className="link white" to={Contact}>Contact</Link>
+          <Link className="link white" to={Learn}>Learn</Link>
       </nav>
     </div>
   );
