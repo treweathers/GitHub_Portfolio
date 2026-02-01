@@ -1,6 +1,6 @@
 @media (min-width: 10px) and (max-width: 299px){
   .App {
-    min-height: 100vh;
+    max-height: 100vh;
     width: 100vw;
     background-image: url("https://i.postimg.cc/C10tPKtm/HBS-9779.jpg");
     background-position: center;
@@ -46,7 +46,7 @@
   }
   .App {
     min-width: 600px;
-    min-height: 100vh;
+    max-height: 100vh;
     background-image: url("https://i.postimg.cc/C10tPKtm/HBS-9779.jpg");
     background-position: center;
     background-repeat: no-repeat;
@@ -86,7 +86,7 @@
   .App {
     min-width: 800px;
     width: 100vw;
-    min-height: 100vh;
+    max-height: 100vh;
     background-size: 100% 100%;
     image-rendering: high-quality;
 
@@ -111,7 +111,7 @@ h1, h2, h3, h4, h5, h6, p {
   background-color: black;
   background-size: cover;
   width: 100vw;
-  min-height: 100vh;
+  max-height: 100vh;
   background-image: url("https://i.postimg.cc/C10tPKtm/HBS-9779.jpg");
   background-image: url("https://i.postimg.cc/C10tPKtm/HBS-9779.jpg");
   background-position: center;
