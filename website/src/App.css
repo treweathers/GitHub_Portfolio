@@ -115,7 +115,7 @@ h1, h2, h3, h4, h5, h6, p {
   background-image: url("https://i.postimg.cc/C10tPKtm/HBS-9779.jpg");
   background-image: url("https://i.postimg.cc/C10tPKtm/HBS-9779.jpg");
   background-position: center;
-  background-repeat: repeat;
+  background-repeat: repeat-y;
   background-size: 100% 100%;
   image-rendering: high-quality;
   
