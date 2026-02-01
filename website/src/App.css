@@ -205,7 +205,6 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 .homenav {
-  .homenav {
   justify-content: space-between;
   animation-duration: 3s;
   animation-name: slidein;
