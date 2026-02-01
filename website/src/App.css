@@ -33,7 +33,7 @@
     display: inline-block;
     text-align: center;
     padding-top: 5px;
-    background-color: white;
+
     font-size: 30px;
   }
 
@@ -75,7 +75,7 @@ min-height: 100vh;
     display: inline-block;
     text-align: center;
     padding-top: 5px;
-    background-color: white;
+
 
   }
 }
@@ -185,10 +185,19 @@ h1, h2, h3, h4, h5, h6, p {
   padding: 5px;
   list-style-type: none;
   text-decoration: none;
-    display: inline-block;
-    text-align: center;
-    padding-top: 5px;
-    background-color: white;
+  display: inline-block;
+  text-align: center;
+  padding-top: 5px;
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  font-weight: bolder;
+  background-color: none;
+  list-style-type: none;
+  text-decoration: none;
+  display: inline-block;
+  text-align: center;
+  padding-top: 5px;
+
 }
 .link2 {
   margin: 10px;
@@ -203,7 +212,7 @@ h1, h2, h3, h4, h5, h6, p {
     display: inline-block;
     text-align: center;
     padding-top: 5px;
-    background-color: white;
+
 }
 .link2:hover {
   cursor: pointer;
@@ -237,7 +246,7 @@ h1, h2, h3, h4, h5, h6, p {
       display: inline-block;
     text-align: center;
     padding-top: 5px;
-    background-color: white;
+
 }
 
 .github {
@@ -259,18 +268,6 @@ h1, h2, h3, h4, h5, h6, p {
   flex-direction: column;
 }
 
-.link {
-  color: rgb(255, 255, 255);
-  font-size: 25px;
-  font-weight: bolder;
-  background-color: none;
-  list-style-type: none;
-  text-decoration: none;
-      display: inline-block;
-    text-align: center;
-    padding-top: 5px;
-    background-color: white;
-}
 
 .example {
   border-style: groove;
