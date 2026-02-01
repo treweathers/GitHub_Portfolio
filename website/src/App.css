@@ -2,10 +2,7 @@
 * {
   border: 0;
   padding: 0;
-  margin: 0;
-  background-image: url("https://i.postimg.cc/C10tPKtm/HBS-9779.jpg");
-  background-position: center;
-  background-repeat: repeat;
+  margin: 0 auto;
 }
 
 @media (min-width: 10px) and (max-width: 299px){
@@ -117,11 +114,10 @@
     block-size: fit-content;
     margin: 5px;
     padding: 10px;
-    top: 5px;
     justify-content: center;
     text-align: center;
     max-width: 100vw;
-  
+    margin: 0 auto;
 
 }
 }
@@ -208,12 +204,12 @@ h1, h2, h3, h4, h5, h6, p {
   block-size: fit-content;
   margin: 5px;
   padding: 10px;
-  top: 5px;
   text-align: center;
   display: flex;
   flex-direction: row;
   justify-content: center;
   max-width: 100vw;
+  margin: 0 auto;
 }
 
 .link {
