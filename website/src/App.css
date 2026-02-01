@@ -138,8 +138,7 @@
   }
 
   .App {
-    min-width: 800px;
-    width: 100vw;
+    max-width: 100vw;
 
   }
 }
