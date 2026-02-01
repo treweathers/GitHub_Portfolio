@@ -5,8 +5,8 @@ export default function Education() {
           <h2 className="blue"> Degrees </h2>
         
         <div className="black">
-          <h4> ✡ St. Francis College: B.S. in Healthcare Management</h4>
-          <h4> ✡ Fordham School of Law: JD (Business Law, Human Rights Law) 2021-2026 </h4>
+          <h4> 📜 St. Francis College: B.S. in Healthcare Management</h4>
+          <h4> 👩‍⚖️ Fordham School of Law: JD (Business Law, Human Rights Law) 2021-2026 </h4>
         </div>
 
          <div className="black">
