@@ -37,6 +37,25 @@
     font-size: 30px;
   }
 
+  .homenav {
+  justify-content: space-between;
+  animation-duration: 3s;
+  animation-name: slidein;
+  position: fixed;
+  top: 0px;
+  text-align: center;
+  justify-content: space-between;
+  padding: 5px;
+  width: fit-content;
+  height: fit-content;
+  inline-size: fit-content;
+  block-size: fit-content;
+  margin: 5px;
+  padding: 10px;
+  position: fixed;
+  top: 5px;
+  text-align: center;
+}
 }
 
 
@@ -78,6 +97,25 @@ min-height: 100vh;
 
 
   }
+  .homenav {
+  justify-content: space-between;
+  animation-duration: 3s;
+  animation-name: slidein;
+  position: fixed;
+  top: 0px;
+  text-align: center;
+  justify-content: space-between;
+  padding: 5px;
+  width: fit-content;
+  height: fit-content;
+  inline-size: fit-content;
+  block-size: fit-content;
+  margin: 5px;
+  padding: 10px;
+  position: fixed;
+  top: 5px;
+  text-align: center;
+}
 }
 
 
