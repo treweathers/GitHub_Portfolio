@@ -36,17 +36,14 @@
 
     font-size: 30px;
     width: 100%;
-      display: flex;
-  flex-direction: column;
+    display: flex;
+    flex-direction: row;
   }
 
   .homenav {
   justify-content: space-between;
   animation-duration: 3s;
   animation-name: slidein;
-
-  top: 0px;
-  text-align: center;
   justify-content: space-between;
   padding: 5px;
   width: fit-content;
