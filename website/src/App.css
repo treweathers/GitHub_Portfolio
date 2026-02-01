@@ -31,6 +31,7 @@
     margin-right: 0px;
 
     display: inline-block;
+    list-style-type: none;
     text-align: center;
     padding-top: 5px;
 
@@ -94,6 +95,7 @@ min-height: 100vh;
     margin-left: 1px;
     margin-right: 1px;
     display: inline-block;
+    list-style-type: none;
     text-align: center;
     padding-top: 5px;
   float: left;
@@ -201,23 +203,11 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 .homenav {
-  justify-content: space-between;
-  animation-duration: 3s;
-  animation-name: slidein;
-  position: fixed;
-  top: 0px;
-  text-align: center;
-  justify-content: space-between;
-  padding: 5px;
-  width: fit-content;
-  height: fit-content;
-  inline-size: fit-content;
-  block-size: fit-content;
-  margin: 5px;
-  padding: 10px;
-  position: fixed;
-  top: 5px;
-  text-align: center;
+  height: 100vh; /* Magic here */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
 }
 
 .link {
@@ -229,7 +219,8 @@ h1, h2, h3, h4, h5, h6, p {
   padding: 5px;
   list-style-type: none;
   text-decoration: none;
-  display: inline-block;
+    display: inline-block;
+    list-style-type: none;
   text-align: center;
   padding-top: 5px;
   color: rgb(255, 255, 255);
