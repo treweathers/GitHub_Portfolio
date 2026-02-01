@@ -16,12 +16,12 @@ export default function Education() {
           <h2 className="blue"> Certificates </h2>
 
         <div className="black">
-          <h4> ✡ General Assembly: Full Stack Software Engineering Certificate </h4>
-          <h4> ✡ Stanford Online & DeepLearning.AI: Machine Learning Specialization Certificate </h4>
-          <h4> ✡ DeepLearning.AI: Mathematics for Machine Learning and Data Science Specialization Certificate</h4>
-          <h4> ✡ University of Colorado Boulder: Mind and Machine Specialization Certificate </h4>
-          <h4> ✡ Duke University: Python, Bash and SQL Essentials for Data Engineering Specialization Certificate </h4>
-          <h4> ✡ DeepLearning.AI: TensorFlow Data and Deployment Specialization Certificate </h4>
+          <h4> 👩‍💻 General Assembly: Full Stack Software Engineering Certificate </h4>
+          <h4> 👩‍💻 Stanford Online & DeepLearning.AI: Machine Learning Specialization Certificate </h4>
+          <h4> 👩‍💻 DeepLearning.AI: Mathematics for Machine Learning and Data Science Specialization Certificate</h4>
+          <h4> 👩‍💻 University of Colorado Boulder: Mind and Machine Specialization Certificate </h4>
+          <h4> 👩‍💻 Duke University: Python, Bash and SQL Essentials for Data Engineering Specialization Certificate </h4>
+          <h4> 👩‍💻 DeepLearning.AI: TensorFlow Data and Deployment Specialization Certificate </h4>
         </div>
          
           <div className="black">
