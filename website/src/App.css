@@ -144,22 +144,29 @@
 }
 
 .App {
-    min-height: 100vh;
-    width: 100vw;
-    margin: 5px 5px; 
-    padding: 15px;
-    color: white;
-    text-align: center;
-    justify-content: center;
-    font-family: 'Playfair Display', serif;
-    list-style-type: none;
-    background-color: black;
-    background-image: url("https://i.postimg.cc/C10tPKtm/HBS-9779.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: 100% 100%;
-    image-rendering: high-quality;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  margin: 5px 5px; 
+  padding: 15px;
+  color: white;
+  text-align: center;
+  justify-content: center;
+  font-family: 'Playfair Display', serif;
+  list-style-type: none;
+  background-color: black;
+  background-image: url("https://i.postimg.cc/C10tPKtm/HBS-9779.jpg");
+  background-size: cover;
+  width: fit-content;
+  height: fit-content;
+  width: 100%;
+  height: 100%;
+  inline-size: fit-content;
+  block-size: fit-content;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% 100%;
+  image-rendering: high-quality;
 }
 
 h1, h2, h3, h4, h5, h6, p {
