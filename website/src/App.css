@@ -195,12 +195,9 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 .homenav {
-  justify-content: space-between;
   animation-duration: 3s;
   animation-name: slidein;
   top: 0px;
-  text-align: center;
-  justify-content: space-between;
   padding: 5px;
   width: fit-content;
   height: fit-content;
@@ -212,6 +209,7 @@ h1, h2, h3, h4, h5, h6, p {
   text-align: center;
   display: flex;
   flex-direction: row;
+  justify-content: center;
 }
 
 .link {
