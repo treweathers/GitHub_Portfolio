@@ -208,6 +208,8 @@ h1, h2, h3, h4, h5, h6, p {
   padding: 10px;
   top: 5px;
   text-align: center;
+  display: flex;
+  flex-direction: row;
 }
 
 .link {
@@ -219,7 +221,6 @@ h1, h2, h3, h4, h5, h6, p {
   padding: 5px;
   list-style-type: none;
   text-decoration: none;
-  display: inline-block;
   text-align: center;
   padding-top: 5px;
   color: rgb(255, 255, 255);
