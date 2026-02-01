@@ -44,7 +44,6 @@
   justify-content: space-between;
   animation-duration: 3s;
   animation-name: slidein;
-  position:absolute;
 
   top: 0px;
   text-align: center;
@@ -59,8 +58,8 @@
   position:relative;
   top: 5px;
   text-align: center;
-      display: flex;
-  flex-direction: column;
+  display: flex;
+  flex-direction: row;
     
 }
 }
