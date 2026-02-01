@@ -1,4 +1,4 @@
-j//import  Navs  from "./nav_2.js";
+//import  Navs  from "./nav_2.js";
 
 export default function Aboutme() {
   return (
