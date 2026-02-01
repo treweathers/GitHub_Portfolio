@@ -10,7 +10,7 @@ export default function Education() {
         </div>
 
          <div className="black">
-          <img className="exampleer" src="https://i.postimg.cc/T2bfDJy4/IMG-4607.jpg" align="center" alt="degree"></img>
+          <img className="example" src="https://i.postimg.cc/T2bfDJy4/IMG-4607.jpg" align="center" alt="degree"></img>
         </div>
 
           <h2 className="blue"> Certificates </h2>
@@ -25,22 +25,22 @@ export default function Education() {
         </div>
          
           <div className="black">
-          <img className="exampleer" src="https://i.postimg.cc/rwQZ3rN5/Image-6-29-23-at-6-41-PM.jpg" align="center" alt="vector"></img>
+          <img className="example" src="https://i.postimg.cc/rwQZ3rN5/Image-6-29-23-at-6-41-PM.jpg" align="center" alt="vector"></img>
           <hr></hr>
         
-          <img className="exampleer" src="https://i.postimg.cc/3Jrk9k3k/Image-6-20-23-at-7-27-AM.jpg" align="center" alt="vector"></img>
+          <img className="example" src="https://i.postimg.cc/3Jrk9k3k/Image-6-20-23-at-7-27-AM.jpg" align="center" alt="vector"></img>
           <hr></hr>
 
-          <img className="exampleer" src="https://i.postimg.cc/gJcGQwxT/Image-9-16-23-at-6-02-PM.jpg" align="center" alt="vector"></img>
+          <img className="example" src="https://i.postimg.cc/gJcGQwxT/Image-9-16-23-at-6-02-PM.jpg" align="center" alt="vector"></img>
           <hr></hr>
 
-          <img className="exampleer" src="https://i.postimg.cc/VNJjLpPG/Image-10-24-23-at-9-23-PM.jpg" align="center" alt="vector"></img>
+          <img className="example" src="https://i.postimg.cc/VNJjLpPG/Image-10-24-23-at-9-23-PM.jpg" align="center" alt="vector"></img>
           <hr></hr>
 
-          <img className="exampleer" src="https://i.postimg.cc/Bn71SqdD/Image-10-27-23-at-3-47-PM.jpg" align="center" alt="vector"></img>
+          <img className="example" src="https://i.postimg.cc/Bn71SqdD/Image-10-27-23-at-3-47-PM.jpg" align="center" alt="vector"></img>
           <hr></hr>
 
-          <img className="exampleer" src="https://i.postimg.cc/Kjmk0wFk/Tensor-Flow-Specialization.png" align="center" alt="vector"></img>
+          <img className="example" src="https://i.postimg.cc/Kjmk0wFk/Tensor-Flow-Specialization.png" align="center" alt="vector"></img>
           </div>
         
         </div>
