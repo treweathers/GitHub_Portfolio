@@ -37,8 +37,9 @@
   }
 
   .link {
-    margin-left: 1px;
-    margin-right: 1px;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding: 1px;
     display: inline-block;
     text-align: center;
     font-size: 30px;
@@ -89,8 +90,9 @@
 
 
   .link {
-    margin-left: 1px;
-    margin-right: 1px;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding: 1px;
     display: inline-block;
     text-align: center;
     padding-top: 5px;
@@ -213,8 +215,9 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 .link {
-  margin-left: 1px;
-  margin-right: 1px;
+  margin-left: 2px;
+  margin-right: 2px;
+  padding: 1px;
   list-style-type: none;
   text-decoration: none;
   text-align: center;
