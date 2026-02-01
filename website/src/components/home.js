@@ -1,8 +1,7 @@
 export default function Home() {
   return (
       <div className="homepage">
-          <h1 id="title-white"> Tre Weathers </h1>
-          <h1> Computer Science Portfolio </h1>
+
       </div>
     )
   }
