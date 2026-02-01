@@ -139,6 +139,11 @@ min-height: 100vh;
   .App {
     min-width: 800px;
     width: 100vw;
+
+  }
+}
+
+.App {
     min-height: 100vh;
     display: flex;
     margin: 5px 5px; 
@@ -157,7 +162,6 @@ min-height: 100vh;
     background-repeat: repeat-x;
     background-size: 100% 100%;
     image-rendering: high-quality;
-  }
 }
 
 h1, h2, h3, h4, h5, h6, p {
