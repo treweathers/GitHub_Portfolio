@@ -139,10 +139,24 @@ min-height: 100vh;
   .App {
     min-width: 800px;
     width: 100vw;
-min-height: 100vh;
+    min-height: 100vh;
+    display: flex;
+    margin: 5px 5px; 
+    padding: 15px;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    font-family: 'Playfair Display', serif;
+    list-style-type: none;
+    background-color: black;
+    background-size: cover;
+    width: 100vw;
+    min-height: 100vh;
+    background-image: url("https://i.postimg.cc/C10tPKtm/HBS-9779.jpg");
+    background-position: center;
+    background-repeat: repeat-x;
     background-size: 100% 100%;
     image-rendering: high-quality;
-
   }
 }
 
@@ -150,29 +164,6 @@ h1, h2, h3, h4, h5, h6, p {
   padding: 0px;
 }
 
-.App {
-  text-align: center;
-  display: flex;
-  flex-direction: column;
-  margin: 5px 5px; 
-  padding: 15px;
-  color: white;
-  text-align: center;
-  justify-content: center;
-  font-family: 'Playfair Display', serif;
-  list-style-type: none;
-  background-color: black;
-  background-size: cover;
-  width: 100vw;
-  min-height: 100vh;
-  background-image: url("https://i.postimg.cc/C10tPKtm/HBS-9779.jpg");
-  background-image: url("https://i.postimg.cc/C10tPKtm/HBS-9779.jpg");
-  background-position: center;
-  background-repeat: repeat-x;
-  background-size: 100% 100%;
-  image-rendering: high-quality;
-  
-}
 
 .nav {
   list-style-type: none;
@@ -474,3 +465,31 @@ h1, h2, h3, h4, h5, h6, p {
 .title-white {
   background-color: blue;
 }
+
+.nav {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  padding: 5px;
+  width: fit-content;
+  height: fit-content;
+  inline-size: fit-content;
+  block-size: fit-content;
+}
+
+.servicesnav{
+  justify-content: center;
+  list-style: none;
+  padding: 5px;
+}
+
+.tutorialsnav {
+  display: flex;
+  flex-direction: column;
+}
+
+.homenav {
+  animation-duration: 3s;
+  animation-name: slidein;
+}
+
