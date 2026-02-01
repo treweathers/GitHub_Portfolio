@@ -1,8 +1,11 @@
 
-*{
-border: 0;
-padding: 0;
-margin: 0;
+* {
+  border: 0;
+  padding: 0;
+  margin: 0;
+  background-image: url("https://i.postimg.cc/C10tPKtm/HBS-9779.jpg");
+  background-position: center;
+  background-repeat: repeat;
 }
 
 @media (min-width: 10px) and (max-width: 299px){
