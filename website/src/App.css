@@ -125,6 +125,7 @@ min-height: 100vh;
   list-style-type: none;
   display: flex;
   flex-direction: row;
+  justify-content: space-between;
   padding: 5px;
   width: fit-content;
   height: fit-content;
@@ -135,17 +136,21 @@ min-height: 100vh;
 }
 
 .servicesnav{
-  justify-content: center;
+  justify-content: space-between;
+
   list-style: none;
   padding: 5px;
 }
 
 .tutorialsnav {
   display: flex;
+  justify-content: space-between;
+
   flex-direction: column;
 }
 
 .homenav {
+    justify-content: space-between;
   animation-duration: 3s;
   animation-name: slidein;
 }
