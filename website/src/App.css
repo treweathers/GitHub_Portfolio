@@ -41,23 +41,20 @@
   }
 
   .homenav {
-  justify-content: space-between;
   animation-duration: 3s;
   animation-name: slidein;
-  justify-content: space-between;
   padding: 5px;
-  width: fit-content;
-  height: fit-content;
-  inline-size: fit-content;
-  block-size: fit-content;
+
   margin: 25px;
   padding: 10px;
   position:relative;
   top: 5px;
   text-align: center;
-  display: flex;
-  flex-direction: row;
     
+    
+}
+.black {
+  max-width: 100vw;
 }
 }
 
