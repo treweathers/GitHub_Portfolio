@@ -57,9 +57,7 @@ margin: 0;
   }
 .black, .aboutme {
   max-width: 100vw;
-  background-color: black;
-  border-style: solid;
-  border-color: white;
+
 }
 
   
@@ -401,9 +399,9 @@ h1, h2, h3, h4, h5, h6, p {
 
 .black {
   background-color: black;
+  border: 1px;
   border-style: solid;
   border-color: white;
-  max-width: 100vw;
 }
 
 .white {
