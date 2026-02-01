@@ -131,13 +131,16 @@ min-height: 100vh;
   height: fit-content;
   inline-size: fit-content;
   block-size: fit-content;
-    margin: 5px;
+  margin: 5px;
   padding: 10px;
+  position: fixed;
+  top: 0px;
 }
 
 .servicesnav{
   justify-content: space-between;
-
+   position: fixed;
+   top: 0px;
   list-style: none;
   padding: 5px;
 }
@@ -145,7 +148,8 @@ min-height: 100vh;
 .tutorialsnav {
   display: flex;
   justify-content: space-between;
-
+   position: fixed;
+   top: 0px;
   flex-direction: column;
 }
 
@@ -153,6 +157,8 @@ min-height: 100vh;
     justify-content: space-between;
   animation-duration: 3s;
   animation-name: slidein;
+     position: fixed;
+   top: 0px;
 }
 
 .link {
