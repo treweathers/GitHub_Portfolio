@@ -71,6 +71,7 @@
   }
   .App {
     min-width: 600px;
+    width: 100vw;
     min-height: 100vh;
     background-image: url("https://i.postimg.cc/C10tPKtm/HBS-9779.jpg");
     background-position: center;
@@ -157,7 +158,7 @@
   background-color: black;
   background-image: url("https://i.postimg.cc/C10tPKtm/HBS-9779.jpg");
   background-size: cover;
-  width: 100%;
+  width: 100vw;
   min-height: 100vh;
   background-repeat: no-repeat;
   background-position: center;
