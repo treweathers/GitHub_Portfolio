@@ -36,23 +36,16 @@ margin: 0;
   }
 
   .link {
-    margin-left: 0px;
-    margin-right: 0px;
-
+    margin-left: 1px;
+    margin-right: 1px;
     display: inline-block;
     text-align: center;
-    padding-top: 5px;
-
     font-size: 30px;
     max-width: 100vw;
-    
     display: flex;
     flex-direction: row;
-    margin: 25px;
-    padding: 10px;
-
     top: 5px;
-    
+
 
   }
 .black, .aboutme {
@@ -101,10 +94,9 @@ margin: 0;
     text-align: center;
     padding-top: 5px;
     float: left;
-    padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
-    width: 100%
+    width: 100%;
 
 
   }
@@ -220,16 +212,11 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 .link {
-  margin: 15px;
-  margin-bottom: 15px;
-  margin-top: 15px;
-  margin-left: 10px;
-  margin-right: 10px;
-  padding: 5px;
+  margin-left: 1px;
+  margin-right: 1px;
   list-style-type: none;
   text-decoration: none;
   text-align: center;
-  padding-top: 5px;
   color: rgb(255, 255, 255);
   font-size: 25px;
   font-weight: bolder;
