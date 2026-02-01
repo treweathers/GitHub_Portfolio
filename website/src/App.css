@@ -15,18 +15,18 @@
 
  
   .exampleee,   .exampleer , .examplees, .examplee, .meimg, .transparent {
-    max-width: 30px;
+    max-width: 100vw;
     height: 30px;
   }
   .video-big {
-    max-width: 250px;
+    max-width: 100vw;
     max-height: 150px;
     border-style: inset;
     border-color: rgb(245, 159, 31);
     border-width: 5px;
 }
   img {
-    max-width: 10px;
+    max-width: 100vw;
     height: 10px;
   }
 
@@ -39,7 +39,7 @@
     padding-top: 5px;
 
     font-size: 30px;
-    width: 100%;
+    max-width: 100vw;
     
     display: flex;
     flex-direction: row;
@@ -118,6 +118,7 @@
     top: 5px;
     justify-content: center;
     text-align: center;
+    max-width: 100vw;
   
 
 }
@@ -208,6 +209,7 @@ h1, h2, h3, h4, h5, h6, p {
   display: flex;
   flex-direction: row;
   justify-content: center;
+  max-width: 100vw;
 }
 
 .link {
