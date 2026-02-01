@@ -16,12 +16,13 @@ margin: 0;
     image-rendering: high-quality;
     padding: 0p;
     margin: 5px;
+    justify-content: center;
 
   }
 
 .example, .exampleee, .exampleer, .examplees, .examplee, .meimg, .transparent {
     max-width: 30px;
-    height: 30px;
+    max-height: 30px;
   }
   .video-big {
     max-width: 250px;
