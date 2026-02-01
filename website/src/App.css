@@ -49,14 +49,6 @@
 
   }
 
-  .homenav {
-  animation-duration: 3s;
-  animation-name: slidein;
-  padding: 5px;
-  display: flex;
-  flex-direction: row;
-   
-}
   
 .black {
   width: 100vw;
@@ -112,10 +104,9 @@ min-height: 100vh;
     justify-content: space-between;
     animation-duration: 3s;
     animation-name: slidein;
-    position: relative;
+
     top: 0px;
     text-align: center;
-    justify-content: space-between;
     padding: 5px;
     width: fit-content;
     height: fit-content;
@@ -126,6 +117,8 @@ min-height: 100vh;
 
     top: 5px;
     text-align: center;
+  
+
 }
 }
 
@@ -190,7 +183,7 @@ h1, h2, h3, h4, h5, h6, p {
   height: fit-content;
   inline-size: fit-content;
   block-size: fit-content;
-    margin: 5px;
+  margin: 5px;
   padding: 10px;
 }
 
