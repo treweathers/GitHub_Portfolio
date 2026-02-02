@@ -106,7 +106,6 @@
   .homenav {
     animation-duration: 3s;
     animation-name: slidein;
-
     top: 0px;
     text-align: center;
     padding: 5px;
@@ -114,8 +113,8 @@
     height: fit-content;
     inline-size: fit-content;
     block-size: fit-content;
-    margin: 5px;
-    padding: 10px;
+    margin: 0;
+    padding: 0;
     justify-content: center;
     text-align: center;
     max-width: 100vw;
