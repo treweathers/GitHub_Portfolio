@@ -125,7 +125,7 @@
 }
 
 
-@media (min-width: 801px) and (max-width: 1200px) {
+@media (min-width: 801px) and (max-width: 1150px) {
 .example,  .exampleee,   .exampleer , .examplees, .examplee, .transparent{
     max-width: 700px;
     max-height: 600px;
