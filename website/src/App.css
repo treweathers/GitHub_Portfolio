@@ -22,7 +22,7 @@
 
 .example, .exampleee, .exampleer, .examplees, .examplee, .meimg, .transparent {
     max-width: 30px;
-    max-height: 30px;
+    max-height: 20px;
   }
   .video-big {
     max-width: 250px;
