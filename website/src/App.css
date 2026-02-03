@@ -156,11 +156,7 @@
   justify-content: center;
   font-family: 'Playfair Display', serif;
   list-style-type: none;
-  background-color: black;
-  background-size: cover;
-  background-image: url("https://i.postimg.cc/C10tPKtm/HBS-9779.jpg");
-  min-height:100vh;
-  background-repeat: repeat;
+  min-height:95vh;
   background-position: center;
   background-size: 100% 100%;
   image-rendering: high-quality;
