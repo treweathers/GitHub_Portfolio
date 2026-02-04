@@ -1,6 +1,6 @@
 export default function Codes() {
   return (
-    <div className="">
+    <div className="longpage">
 
     <h2 className=""> Example 1: This Website! </h2>
         <p className="black">If it was not already assumed, I wrote the code for this website myself using the React.js library for the frontend and GitHub actions, yarn, and Microsoft Azure to deploy. </p>
