@@ -127,8 +127,8 @@
     max-height: 600px;
   }
   .video-big {
-    max-width: 80vw;
-    max-height: 100vh;
+    width: 850px;
+    height: 500px;
     border-style: inset;
     border-color: rgb(245, 159, 31);
     border-width: 5px;
