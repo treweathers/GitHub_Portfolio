@@ -484,6 +484,5 @@ h1, h2, h3, h4, h5, h6, p {
   height: 100vh;
   background-position: center;
   background-repeat: repeat;
-  background-size: 100% 100%;
   image-rendering: high-quality;
 }
