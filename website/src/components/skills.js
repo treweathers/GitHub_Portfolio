@@ -2,7 +2,7 @@ import  Navd  from "./nav_3.js";
 
 export default function Skills() {
   return (
-      <div>
+      <div className="longpage">
     <h1> </h1>
      <h1> </h1>
     
