@@ -191,9 +191,8 @@ h1, h2, h3, h4, h5, h6, p {
 
 .homenav {
   position: absolute;
-  top: 0px;
+  top: 5px;
   bottom:-15px;
-  right: auto;
   padding: 5px;
   width: fit-content;
   height: fit-content;
