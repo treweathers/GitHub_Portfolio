@@ -205,16 +205,14 @@ h1, h2, h3, h4, h5, h6, p {
 .link {
   margin-left: 2px;
   margin-right: 2px;
-  padding: 2px;
+  padding: 1px;
   list-style-type: none;
   text-decoration: none;
   text-align: center;
   color: rgb(255, 255, 255);
-  font-size: 25px;
+  font-size: 20px;
   font-weight: bolder;
   background-color: none;
-  list-style-type: none;
-  text-decoration: none;
   display: inline-block;
   text-align: center;
   text-decoration: none;
