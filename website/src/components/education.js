@@ -1,6 +1,6 @@
 export default function Education() {
     return (
-        <div>
+        <div className="longpage" >
         
           <h2 className="blue"> Degrees </h2>
         
