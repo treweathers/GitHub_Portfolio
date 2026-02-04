@@ -112,8 +112,10 @@
 
   }
   .homenav {
-    text-align: center;
+    top: 0%;
+    bottom:-10px;
     padding: 5px;
+    text-align: center;
     width: fit-content;
     height: fit-content;
     inline-size: fit-content;
