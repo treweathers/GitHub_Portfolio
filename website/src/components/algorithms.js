@@ -1,6 +1,6 @@
 export default function Algorithms() {
     return (
-      <div>
+      <div className="longpage">
 
         <h3> Example 1: Linear Regression Example - Market Analysis for Profit Prediction </h3>
           <div className="example1 black">
