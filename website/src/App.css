@@ -187,19 +187,15 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 .homenav {
-  position: absolute;
-  
-  top: 0%;
-  bottom:-10px;
-  left: 50%;
-  
-  padding: 10px;
-  margin: 5px;
 
+  top: 0px;
+  padding: 5px;
   width: fit-content;
   height: fit-content;
   inline-size: fit-content;
   block-size: fit-content;
+  margin: 5px;
+  padding: 10px;
   text-align: center;
   display: flex;
   flex-direction: row;
