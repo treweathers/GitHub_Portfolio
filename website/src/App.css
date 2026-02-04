@@ -57,7 +57,6 @@
 }
 .longpage {
   background-image: url("https://i.postimg.cc/K8pGb0LK/IMG-8200.jpg");
-  overflow: hidden;
   background-size: cover;
   width: 100%;
   height: 100vh;
@@ -132,7 +131,6 @@
 }
 .longpage {
   background-image: url("https://i.postimg.cc/K8pGb0LK/IMG-8200.jpg");
-  overflow: hidden;
   background-size: cover;
   width: 100%;
   height: 100vh;
@@ -165,13 +163,14 @@
   }
 
 .longpage {
-  background-image: url("https://i.postimg.cc/K8pGb0LK/IMG-8200.jpg");
-  max-width: 100vw;
-  min-height: 100vh;
-  background-position: center;
-  background-repeat: repeat;
-  background-size: 100% 100%;
-  image-rendering: high-quality;
+    background-image: url("https://i.postimg.cc/K8pGb0LK/IMG-8200.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: 100% 100%;
+    image-rendering: high-quality;
 }
 }
 .App {
@@ -483,7 +482,6 @@ h1, h2, h3, h4, h5, h6, p {
 
 .longpage {
   background-image: url("https://i.postimg.cc/K8pGb0LK/IMG-8200.jpg");
-  overflow: hidden;
   background-size: cover;
   width: 100%;
   height: 100vh;
