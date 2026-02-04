@@ -104,9 +104,6 @@
 
   }
   .homenav {
-    animation-duration: 3s;
-    animation-name: slidein;
-    top: 0px;
     text-align: center;
     padding: 5px;
     width: fit-content;
@@ -191,11 +188,11 @@ h1, h2, h3, h4, h5, h6, p {
 
 .homenav {
   position: absolute;
-  top: 5px;
-  bottom:-10px;
+  top: 50%;
+
   padding: 10px;
   margin: 5px;
-  right: 50vw;
+
   width: fit-content;
   height: fit-content;
   inline-size: fit-content;
