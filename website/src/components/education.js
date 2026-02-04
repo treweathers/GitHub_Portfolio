@@ -1,10 +1,6 @@
 export default function Education() {
     return (
-        <div style={{
-        backgroundImage: url("https://i.postimg.cc/K8pGb0LK/IMG-8200.jpg"),
-        width: '100px',
-        height: '100px'
-      }} >
+        <div className="longpage" >
         
           <h2 className="blue"> Degrees </h2>
         
